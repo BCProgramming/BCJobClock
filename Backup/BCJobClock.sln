@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCJobClock", "BCJobClock\BCJobClock.csproj", "{F740D78E-4516-4B04-A43B-B3B5A55559D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCJobClockLib", "BCJobClockLib\BCJobClockLib.csproj", "{49C0738F-B36E-49B4-959D-36C958DF693B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobClockAdmin", "JobClockAdmin\JobClockAdmin.csproj", "{A858B735-1BAB-4367-919E-33BC5C829980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F740D78E-4516-4B04-A43B-B3B5A55559D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F740D78E-4516-4B04-A43B-B3B5A55559D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F740D78E-4516-4B04-A43B-B3B5A55559D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F740D78E-4516-4B04-A43B-B3B5A55559D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49C0738F-B36E-49B4-959D-36C958DF693B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C0738F-B36E-49B4-959D-36C958DF693B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C0738F-B36E-49B4-959D-36C958DF693B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C0738F-B36E-49B4-959D-36C958DF693B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A858B735-1BAB-4367-919E-33BC5C829980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A858B735-1BAB-4367-919E-33BC5C829980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A858B735-1BAB-4367-919E-33BC5C829980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A858B735-1BAB-4367-919E-33BC5C829980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

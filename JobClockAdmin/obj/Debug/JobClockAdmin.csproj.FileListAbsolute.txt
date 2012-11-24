@@ -1,0 +1,44 @@
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\JobClockAdmin\bin\Debug\JobClockAdmin.exe
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\JobClockAdmin\bin\Debug\JobClockAdmin.pdb
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\JobClockAdmin\bin\Debug\BCJobClockLib.dll
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\JobClockAdmin\bin\Debug\BCJobClockLib.pdb
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\JobClockAdmin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.frmJobClockAdmin.resources
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.Properties.Resources.resources
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.csproj.GenerateResource.Cache
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.exe
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.pdb
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.frmDateRangePicker.resources
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.JobMonitor.resources
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\JobClockAdmin\bin\Debug\BCUpdateLib.pdb
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.SimpleUserManager.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.exe
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\JobClockAdmin\bin\Debug\JobClockAdmin.exe
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\JobClockAdmin\bin\Debug\JobClockAdmin.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\JobClockAdmin\bin\Debug\BCJobClockLib.dll
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\JobClockAdmin\bin\Debug\BCUpdateLib.dll
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\JobClockAdmin\bin\Debug\BCJobClockLib.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\JobClockAdmin\bin\Debug\BCUpdateLib.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\JobClockAdmin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.SimpleUserManager.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.frmDateRangePicker.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.frmJobClockAdmin.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.JobMonitor.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.Properties.Resources.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.csproj.GenerateResource.Cache
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.exe
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\JobClockAdmin\bin\Debug\JobClockAdmin.exe
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\JobClockAdmin\bin\Debug\JobClockAdmin.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\JobClockAdmin\bin\Debug\BCJobClockLib.dll
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\JobClockAdmin\bin\Debug\BCJobClockLib.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\JobClockAdmin\bin\Debug\BCUpdateLib.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.csprojResolveAssemblyReference.cache
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.SimpleUserManager.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.frmDateRangePicker.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.frmJobClockAdmin.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.JobMonitor.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.Properties.Resources.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.csproj.GenerateResource.Cache
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\JobClockAdmin\obj\Debug\JobClockAdmin.Schedules.resources

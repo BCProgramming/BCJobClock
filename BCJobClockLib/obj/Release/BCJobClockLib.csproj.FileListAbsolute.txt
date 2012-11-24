@@ -1,0 +1,24 @@
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClockLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClockLib\bin\Release\BCJobClockLib.dll
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClockLib\bin\Release\BCJobClockLib.pdb
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClockLib\obj\Release\BCJobClockLib.dll
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClockLib\obj\Release\BCJobClockLib.pdb
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClockLib\obj\Release\BCJobClockLib.frmPasswordPrompt.resources
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClockLib\obj\Release\BCJobClockLib.csproj.GenerateResource.Cache
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClockLib\obj\Release\BCJobClockLib.frmWaitMessage.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClockLib\bin\Release\BCJobClockLib.dll
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClockLib\bin\Release\BCJobClockLib.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClockLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClockLib\obj\Release\BCJobClockLib.frmPasswordPrompt.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClockLib\obj\Release\BCJobClockLib.frmWaitMessage.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClockLib\obj\Release\BCJobClockLib.csproj.GenerateResource.Cache
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClockLib\obj\Release\BCJobClockLib.dll
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClockLib\obj\Release\BCJobClockLib.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClockLib\bin\Release\BCJobClockLib.dll
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClockLib\bin\Release\BCJobClockLib.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClockLib\obj\Release\BCJobClockLib.frmPasswordPrompt.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClockLib\obj\Release\BCJobClockLib.frmWaitMessage.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClockLib\obj\Release\BCJobClockLib.csproj.GenerateResource.Cache
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClockLib\obj\Release\BCJobClockLib.dll
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClockLib\obj\Release\BCJobClockLib.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClockLib\obj\Release\BCJobClockLib.csprojResolveAssemblyReference.cache

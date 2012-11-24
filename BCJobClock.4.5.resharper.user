@@ -1,0 +1,2772 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="if" priority="327" />
+      <Item value="dr" priority="21" />
+      <Item value="Debug" priority="34" />
+      <Item value="UserPin" priority="7" />
+      <Item value="OrderID" priority="38" />
+      <Item value="return" priority="252" />
+      <Item value="false" priority="65" />
+      <Item value="else" priority="78" />
+      <Item value="String" priority="624" />
+      <Item value="gotcommand" priority="11" />
+      <Item value="clockinsqlfmt" priority="0" />
+      <Item value="DateTime" priority="110" />
+      <Item value="sqlupdateorderfmt" priority="1" />
+      <Item value="usesqlstring" priority="0" />
+      <Item value="TimeSpan" priority="74" />
+      <Item value="stime" priority="2" />
+      <Item value="currtotal" priority="2" />
+      <Item value="duration" priority="1" />
+      <Item value="sqlupdateTotalTimefmt" priority="0" />
+      <Item value="execquery" priority="0" />
+      <Item value="dbase" priority="43" />
+      <Item value="true" priority="65" />
+      <Item value="oleconnection" priority="1" />
+      <Item value="getcom" priority="0" />
+      <Item value="Exception" priority="21" />
+      <Item value="oo" priority="0" />
+      <Item value="public" priority="292" />
+      <Item value="static" priority="62" />
+      <Item value="System" priority="34" />
+      <Item value="Environment" priority="16" />
+      <Item value="Path" priority="9" />
+      <Item value="adata" priority="0" />
+      <Item value="DataLayer" priority="58" />
+      <Item value="private" priority="170" />
+      <Item value="BuildPin" priority="10" />
+      <Item value="ShowAlertWindow" priority="3" />
+      <Item value="lblPIN" priority="6" />
+      <Item value="mScanUserPin" priority="2" />
+      <Item value="mScanUserName" priority="0" />
+      <Item value="acquireduser" priority="3" />
+      <Item value="lblScanPrompt" priority="7" />
+      <Item value="makereader" priority="2" />
+      <Item value="datreader" priority="22" />
+      <Item value="while" priority="28" />
+      <Item value="using" priority="35" />
+      <Item value="BCJobClockLib" priority="6" />
+      <Item value="new" priority="270" />
+      <Item value="null" priority="141" />
+      <Item value="INIFile" priority="4" />
+      <Item value="GetAppDataFolder" priority="3" />
+      <Item value="readonly" priority="25" />
+      <Item value="string" priority="34" />
+      <Item value="AppIdentifier" priority="1" />
+      <Item value="OurINI" priority="49" />
+      <Item value="Data" priority="15" />
+      <Item value="MySql" priority="2" />
+      <Item value="SqlClient" priority="0" />
+      <Item value="Entity" priority="0" />
+      <Item value="MySqlClient" priority="0" />
+      <Item value="MySqlCommand" priority="3" />
+      <Item value="pValue" priority="3" />
+      <Item value="ValueType" priority="5" />
+      <Item value="try" priority="28" />
+      <Item value="catch" priority="24" />
+      <Item value="List" priority="54" />
+      <Item value="bool" priority="78" />
+      <Item value="QuerySQLOrder" priority="1" />
+      <Item value="MySqlConnection" priority="3" />
+      <Item value="GetCommand" priority="30" />
+      <Item value="out" priority="54" />
+      <Item value="getcon" priority="17" />
+      <Item value="makecmd" priority="10" />
+      <Item value="MySqlDataReader" priority="1" />
+      <Item value="QueryTheOrders" priority="0" />
+      <Item value="JobClockConfig" priority="29" />
+      <Item value="value" priority="32" />
+      <Item value="Configuration" priority="14" />
+      <Item value="List&lt;string&gt;" priority="7" />
+      <Item value="returnlist" priority="1" />
+      <Item value="getfield" priority="0" />
+      <Item value="Makecmd" priority="1" />
+      <Item value="addorderSQL" priority="1" />
+      <Item value="Common" priority="6" />
+      <Item value="DbDataReader" priority="23" />
+      <Item value="DbConnection" priority="53" />
+      <Item value="int" priority="117" />
+      <Item value="dreader" priority="13" />
+      <Item value="void" priority="68" />
+      <Item value="lvwUsers" priority="34" />
+      <Item value="ConnectDB" priority="1" />
+      <Item value="Database" priority="119" />
+      <Item value="DbCommand" priority="41" />
+      <Item value="usecon" priority="8" />
+      <Item value="madecommand" priority="4" />
+      <Item value="getusersquery" priority="0" />
+      <Item value="readusers" priority="8" />
+      <Item value="ListViewItem" priority="50" />
+      <Item value="currUserName" priority="3" />
+      <Item value="BasicUserOrderData" priority="5" />
+      <Item value="uod" priority="0" />
+      <Item value="UserPIN" priority="29" />
+      <Item value="queryTimes" priority="0" />
+      <Item value="usecmd" priority="37" />
+      <Item value="sqlqueryuse" priority="0" />
+      <Item value="gotreader" priority="8" />
+      <Item value="runningSum" priority="1" />
+      <Item value="getts" priority="3" />
+      <Item value="is" priority="4" />
+      <Item value="queryit" priority="0" />
+      <Item value="Queryuse" priority="0" />
+      <Item value="currPINCode" priority="6" />
+      <Item value="formatit" priority="4" />
+      <Item value="buildit" priority="7" />
+      <Item value="showclockedTime" priority="1" />
+      <Item value="RefreshUserList" priority="4" />
+      <Item value="CacheCon" priority="4" />
+      <Item value="AllUserNames" priority="2" />
+      <Item value="AllPinCodes" priority="2" />
+      <Item value="for" priority="14" />
+      <Item value="i" priority="36" />
+      <Item value="createthisitem" priority="1" />
+      <Item value="totalactiveCount" priority="1" />
+      <Item value="txtUserName" priority="10" />
+      <Item value="txtPINCode" priority="19" />
+      <Item value="selItem" priority="2" />
+      <Item value="UpdateUserListView" priority="1" />
+      <Item value="Itemsel" priority="19" />
+      <Item value="long" priority="12" />
+      <Item value="List&lt;long&gt;" priority="0" />
+      <Item value="AllRecordIDs" priority="2" />
+      <Item value="currID" priority="0" />
+      <Item value="GetContainerControl" priority="0" />
+      <Item value="currcon" priority="0" />
+      <Item value="sqlupdatefmt" priority="5" />
+      <Item value="e" priority="43" />
+      <Item value="ToolTip" priority="1" />
+      <Item value="validationTip" priority="5" />
+      <Item value="Color" priority="31" />
+      <Item value="grabconnection" priority="0" />
+      <Item value="execcmd" priority="11" />
+      <Item value="testvalue" priority="1" />
+      <Item value="SystemColors" priority="1" />
+      <Item value="ControlCollection" priority="0" />
+      <Item value="forcontrol" priority="13" />
+      <Item value="usestring" priority="2" />
+      <Item value="grabtag" priority="6" />
+      <Item value="lvi" priority="13" />
+      <Item value="AddNewUser" priority="0" />
+      <Item value="foreach" priority="63" />
+      <Item value="Control" priority="7" />
+      <Item value="this" priority="38" />
+      <Item value="Form" priority="0" />
+      <Item value="loopcontrol" priority="1" />
+      <Item value="TextBox" priority="5" />
+      <Item value="castored" priority="0" />
+      <Item value="Keys" priority="6" />
+      <Item value="sender" priority="17" />
+      <Item value="ValidateChildren" priority="0" />
+      <Item value="ValidationConstraints" priority="1" />
+      <Item value="ErrorMessage" priority="5" />
+      <Item value="lblErrorShow" priority="1" />
+      <Item value="readerobj" priority="15" />
+      <Item value="Dictionary" priority="21" />
+      <Item value="Label" priority="4" />
+      <Item value="Dictionary&lt;Control,Label&gt;" priority="0" />
+      <Item value="ControlValidationErrorObjects" priority="1" />
+      <Item value="theerrorlabel" priority="11" />
+      <Item value="Controls" priority="1" />
+      <Item value="SetError" priority="0" />
+      <Item value="getDefaultTip" priority="0" />
+      <Item value="IDisposable" priority="1" />
+      <Item value="exec" priority="1" />
+      <Item value="deletequery" priority="0" />
+      <Item value="Close" priority="8" />
+      <Item value="AssemblyLoadEventArgs" priority="4" />
+      <Item value="Assembly" priority="7" />
+      <Item value="typeof" priority="10" />
+      <Item value="JobClock" priority="3" />
+      <Item value="buildverstring" priority="1" />
+      <Item value="JobClockLib" priority="2" />
+      <Item value="VersionLabel" priority="0" />
+      <Item value="FileStyleUriParser" priority="0" />
+      <Item value="forAssembly" priority="3" />
+      <Item value="BuildVerData" priority="3" />
+      <Item value="GetAssemblyDate" priority="0" />
+      <Item value="AssBuildDate" priority="2" />
+      <Item value="GetVersionData" priority="0" />
+      <Item value="parseme" priority="4" />
+      <Item value="tparse" priority="8" />
+      <Item value="parsedval" priority="3" />
+      <Item value="class" priority="22" />
+      <Item value="DependencyProperty" priority="1" />
+      <Item value="DependencyObject" priority="7" />
+      <Item value="d" priority="3" />
+      <Item value="AllowedChars" priority="5" />
+      <Item value="DependencyPropertyChangedEventArgs" priority="0" />
+      <Item value="textbox" priority="4" />
+      <Item value="object" priority="9" />
+      <Item value="TextComposition" priority="0" />
+      <Item value="KeyEventArgs" priority="0" />
+      <Item value="double" priority="0" />
+      <Item value="var" priority="46" />
+      <Item value="char" priority="4" />
+      <Item value="in" priority="56" />
+      <Item value="allowed" priority="1" />
+      <Item value="ch" priority="0" />
+      <Item value="Key" priority="1" />
+      <Item value="p" priority="0" />
+      <Item value="WorkOrderEntry" priority="4" />
+      <Item value="forUserPIN" priority="5" />
+      <Item value="wo" priority="2" />
+      <Item value="DataAdapter" priority="1" />
+      <Item value="Listboxadapter" priority="0" />
+      <Item value="refreshUserListTimer" priority="6" />
+      <Item value="Timer" priority="13" />
+      <Item value="Threading" priority="5" />
+      <Item value="lstUserNames" priority="4" />
+      <Item value="Dispatcher" priority="0" />
+      <Item value="DispatcherTimer" priority="0" />
+      <Item value="UpdateUserListing" priority="0" />
+      <Item value="byUserPIN" priority="0" />
+      <Item value="grabcon" priority="0" />
+      <Item value="gotcmd" priority="2" />
+      <Item value="usequery" priority="7" />
+      <Item value="InternalDataCollectionBase" priority="1" />
+      <Item value="Dictionary&lt;string,string&gt;" priority="2" />
+      <Item value="queryuse" priority="0" />
+      <Item value="createdict" priority="1" />
+      <Item value="grabname" priority="4" />
+      <Item value="gotusers" priority="0" />
+      <Item value="loopuser" priority="6" />
+      <Item value="currpin" priority="2" />
+      <Item value="currname" priority="1" />
+      <Item value="activecount" priority="2" />
+      <Item value="Buildvalue" priority="1" />
+      <Item value="refreshUserListTimer_Tick" priority="1" />
+      <Item value="UserNameListItem" priority="4" />
+      <Item value="ObservableCollection&lt;UserNameListItem&gt;" priority="1" />
+      <Item value="ObservableCollection" priority="8" />
+      <Item value="tstripNewUser" priority="0" />
+      <Item value="Image" priority="12" />
+      <Item value="ImageManager" priority="3" />
+      <Item value="Dictionary&lt;string,Image&gt;" priority="0" />
+      <Item value="FileInfo" priority="0" />
+      <Item value="DirectoryInfo" priority="0" />
+      <Item value="imagefolder" priority="0" />
+      <Item value="loadedimages" priority="1" />
+      <Item value="imagekey" priority="2" />
+      <Item value="basenameonly" priority="1" />
+      <Item value="tStripRefreshUsers" priority="1" />
+      <Item value="toolstripdeleteuser" priority="1" />
+      <Item value="Name" priority="4" />
+      <Item value="pName" priority="0" />
+      <Item value="PINCode" priority="1" />
+      <Item value="pPinCode" priority="0" />
+      <Item value="ActiveJobCount" priority="3" />
+      <Item value="createcol" priority="3" />
+      <Item value="usersbinding" priority="1" />
+      <Item value="gotsender" priority="0" />
+      <Item value="as" priority="10" />
+      <Item value="EmitClickSound" priority="0" />
+      <Item value="un" priority="0" />
+      <Item value="Windows" priority="8" />
+      <Item value="IValueConverter" priority="0" />
+      <Item value="Globalization" priority="3" />
+      <Item value="CultureInfo" priority="2" />
+      <Item value="BitmapEffectProperty" priority="0" />
+      <Item value="BitmapCreateOptions" priority="0" />
+      <Item value="bmp" priority="1" />
+      <Item value="BitmapSource" priority="0" />
+      <Item value="IntPtr" priority="11" />
+      <Item value="Int32Rect" priority="0" />
+      <Item value="BitmapSizeOptions" priority="0" />
+      <Item value="bitmapsource" priority="0" />
+      <Item value="Type" priority="5" />
+      <Item value="throw" priority="3" />
+      <Item value="NotImplementedException" priority="0" />
+      <Item value="formatstr" priority="0" />
+      <Item value="dt" priority="6" />
+      <Item value="DateTimecvt" priority="0" />
+      <Item value="splitparts" priority="3" />
+      <Item value="Year" priority="0" />
+      <Item value="Month" priority="0" />
+      <Item value="Day" priority="0" />
+      <Item value="Hour" priority="0" />
+      <Item value="Minute" priority="0" />
+      <Item value="ordinal" priority="0" />
+      <Item value="returnval" priority="1" />
+      <Item value="thisusersorders" priority="0" />
+      <Item value="DropDownOrders" priority="2" />
+      <Item value="dbcon" priority="4" />
+      <Item value="executor" priority="2" />
+      <Item value="GrabrecordID" priority="2" />
+      <Item value="usereader" priority="13" />
+      <Item value="sName" priority="5" />
+      <Item value="ToolStripMenuItem" priority="35" />
+      <Item value="AllOrders" priority="2" />
+      <Item value="spincommand" priority="0" />
+      <Item value="getallorderIDsQuery" priority="1" />
+      <Item value="resultvalue" priority="3" />
+      <Item value="AllUserOrders" priority="0" />
+      <Item value="ClockOutMade" priority="7" />
+      <Item value="createorder" priority="2" />
+      <Item value="gottag" priority="1" />
+      <Item value="result" priority="11" />
+      <Item value="usecommand" priority="3" />
+      <Item value="queryrun" priority="0" />
+      <Item value="ToolStripDropDownButton" priority="8" />
+      <Item value="showforbutton" priority="5" />
+      <Item value="createsep" priority="1" />
+      <Item value="createremoveitem" priority="2" />
+      <Item value="sPIN" priority="0" />
+      <Item value="splitvar" priority="1" />
+      <Item value="grabpin" priority="2" />
+      <Item value="gotallorders" priority="0" />
+      <Item value="removeit" priority="1" />
+      <Item value="con" priority="1" />
+      <Item value="checkuserordersqlfmt" priority="1" />
+      <Item value="DriveNotFoundException" priority="1" />
+      <Item value="Rule" priority="0" />
+      <Item value="loopvalit" priority="3" />
+      <Item value="loopitem" priority="0" />
+      <Item value="break" priority="21" />
+      <Item value="where" priority="16" />
+      <Item value="select" priority="17" />
+      <Item value="xx" priority="0" />
+      <Item value="cachedselection" priority="1" />
+      <Item value="StringComparison" priority="2" />
+      <Item value="GetUserOrders" priority="3" />
+      <Item value="forUser" priority="0" />
+      <Item value="onlyactive" priority="0" />
+      <Item value="tStripRefreshOrders" priority="0" />
+      <Item value="lvwOrders" priority="29" />
+      <Item value="selOrderItem" priority="11" />
+      <Item value="GetAllOrderIDs" priority="0" />
+      <Item value="gotorders" priority="4" />
+      <Item value="GetConnection" priority="0" />
+      <Item value="SqlFindEarliestSQL" priority="1" />
+      <Item value="looporderid" priority="8" />
+      <Item value="Dictionary&lt;string,DateTime&gt;" priority="0" />
+      <Item value="BuildResult" priority="1" />
+      <Item value="gotearliest" priority="2" />
+      <Item value="GetWorkOrderDate" priority="0" />
+      <Item value="refreshTimer" priority="2" />
+      <Item value="Object" priority="11" />
+      <Item value="RefreshOrderList" priority="3" />
+      <Item value="Func" priority="4" />
+      <Item value="ListView" priority="14" />
+      <Item value="search" priority="1" />
+      <Item value="Searchpredicate" priority="0" />
+      <Item value="searchitem" priority="1" />
+      <Item value="yield return" priority="0" />
+      <Item value="IEnumerable" priority="2" />
+      <Item value="SearchListView" priority="2" />
+      <Item value="lookquery" priority="0" />
+      <Item value="SearchListView_First" priority="0" />
+      <Item value="w" priority="5" />
+      <Item value="modifyItem" priority="15" />
+      <Item value="const" priority="0" />
+      <Item value="StreamWriter" priority="12" />
+      <Item value="_ClientLog" priority="3" />
+      <Item value="Clientlogfile" priority="0" />
+      <Item value="FileMode" priority="5" />
+      <Item value="FileAccess" priority="1" />
+      <Item value="FileShare" priority="2" />
+      <Item value="FileOptions" priority="1" />
+      <Item value="_AdminLog" priority="2" />
+      <Item value="AdminLog" priority="2" />
+      <Item value="Process" priority="1" />
+      <Item value="buildMessage" priority="0" />
+      <Item value="g" priority="3" />
+      <Item value="Message" priority="6" />
+      <Item value="exx" priority="7" />
+      <Item value="MessageBox" priority="14" />
+      <Item value="WindowStyleProperty" priority="0" />
+      <Item value="Application" priority="10" />
+      <Item value="yield break" priority="0" />
+      <Item value="WindowsFormsSection" priority="2" />
+      <Item value="uniqueOrders" priority="0" />
+      <Item value="from" priority="17" />
+      <Item value="looporder" priority="14" />
+      <Item value="linqquery" priority="0" />
+      <Item value="changelistitem" priority="8" />
+      <Item value="GetTotalClockedTimeForUser" priority="1" />
+      <Item value="grabStartTime" priority="0" />
+      <Item value="getcmd" priority="1" />
+      <Item value="getOrderSql" priority="0" />
+      <Item value="dbreader" priority="2" />
+      <Item value="flOnlyCompleted" priority="1" />
+      <Item value="TotalTimeClocked" priority="2" />
+      <Item value="gotconnection" priority="1" />
+      <Item value="useexec" priority="1" />
+      <Item value="sqlactiveworkers" priority="0" />
+      <Item value="buildreturn" priority="3" />
+      <Item value="GetWorkOrderActiveWorkers" priority="0" />
+      <Item value="m" priority="26" />
+      <Item value="sqlget" priority="0" />
+      <Item value="UserNameFromPIN" priority="0" />
+      <Item value="Initialstart" priority="0" />
+      <Item value="TotalClockedTime" priority="3" />
+      <Item value="ActiveWorkers" priority="2" />
+      <Item value="UpdateUserFields" priority="1" />
+      <Item value="DropDownUsers" priority="0" />
+      <Item value="MessageBoxButtons" priority="6" />
+      <Item value="DialogResult" priority="11" />
+      <Item value="removeorderqueryfmt" priority="0" />
+      <Item value="removeorderquery" priority="0" />
+      <Item value="CurrentPIN" priority="3" />
+      <Item value="updateOrderDataPinFmt" priority="0" />
+      <Item value="usequeryfmt" priority="2" />
+      <Item value="dcon" priority="2" />
+      <Item value="dcmd" priority="7" />
+      <Item value="CommandBehavior" priority="1" />
+      <Item value="returnthis" priority="6" />
+      <Item value="lastclockout" priority="5" />
+      <Item value="IFormatProvider" priority="1" />
+      <Item value="sclockout" priority="0" />
+      <Item value="loopview" priority="3" />
+      <Item value="ColumnHeaderAutoResizeStyle" priority="0" />
+      <Item value="ColumnHeader" priority="11" />
+      <Item value="iteratecolumn" priority="1" />
+      <Item value="useWidth" priority="0" />
+      <Item value="orderdates" priority="2" />
+      <Item value="getlastclockout" priority="1" />
+      <Item value="SelUserItem" priority="3" />
+      <Item value="LatestTime" priority="7" />
+      <Item value="LatestValue" priority="1" />
+      <Item value="cmdClose" priority="4" />
+      <Item value="Bottom" priority="1" />
+      <Item value="tabAdminpanel" priority="2" />
+      <Item value="Size" priority="13" />
+      <Item value="ClientSize" priority="5" />
+      <Item value="ToolStripUsers" priority="0" />
+      <Item value="GroupEditingUser" priority="3" />
+      <Item value="Point" priority="7" />
+      <Item value="TabPageUsers" priority="1" />
+      <Item value="Uri" priority="1" />
+      <Item value="soundplay" priority="0" />
+      <Item value="SoundPlayer" priority="2" />
+      <Item value="useri" priority="0" />
+      <Item value="playthesound" priority="2" />
+      <Item value="IO" priority="1" />
+      <Item value="player" priority="1" />
+      <Item value="EntryButtonsWorkOrder" priority="0" />
+      <Item value="isWorkOrderCustomEntry" priority="1" />
+      <Item value="buildvalue" priority="5" />
+      <Item value="checkmaxlength" priority="2" />
+      <Item value="checkminlength" priority="0" />
+      <Item value="TextBlock" priority="0" />
+      <Item value="objcheck" priority="1" />
+      <Item value="lblScanPromptLabel" priority="0" />
+      <Item value="ClickSound" priority="0" />
+      <Item value="Button_Click" priority="0" />
+      <Item value="Content" priority="0" />
+      <Item value="gotcontent" priority="2" />
+      <Item value="intresult" priority="0" />
+      <Item value="AcquiredCode" priority="3" />
+      <Item value="AlertWindow" priority="1" />
+      <Item value="OperatingModeConstants" priority="0" />
+      <Item value="PinEntry" priority="0" />
+      <Item value="VisualTreeHelper" priority="1" />
+      <Item value="obj" priority="0" />
+      <Item value="parent" priority="3" />
+      <Item value="T" priority="12" />
+      <Item value="typed" priority="1" />
+      <Item value="ContentPresenter" priority="1" />
+      <Item value="Canvas" priority="1" />
+      <Item value="MessageActivityLogItem" priority="12" />
+      <Item value="LogTime" priority="1" />
+      <Item value="pMessage" priority="2" />
+      <Item value="MessageIcon" priority="0" />
+      <Item value="pImage" priority="0" />
+      <Item value="List&lt;MessageActivityLogItem&gt;" priority="0" />
+      <Item value="lstLogEntries" priority="5" />
+      <Item value="MessageLog" priority="0" />
+      <Item value="LogMessage" priority="3" />
+      <Item value="Messagefmt" priority="3" />
+      <Item value="uname" priority="3" />
+      <Item value="activejob" priority="1" />
+      <Item value="displaymessage" priority="1" />
+      <Item value="StyleSelector" priority="0" />
+      <Item value="Style" priority="1" />
+      <Item value="set" priority="1" />
+      <Item value="override" priority="5" />
+      <Item value="ItemsControl" priority="1" />
+      <Item value="container" priority="0" />
+      <Item value="item" priority="1" />
+      <Item value="ctrl" priority="0" />
+      <Item value="DefaultStyle" priority="0" />
+      <Item value="AlternateStyle" priority="0" />
+      <Item value="DropDB" priority="1" />
+      <Item value="LogAdmin" priority="2" />
+      <Item value="initerror" priority="0" />
+      <Item value="DatabaseName" priority="4" />
+      <Item value="CreateDB" priority="0" />
+      <Item value="CreateUsersTable" priority="0" />
+      <Item value="CreateOrdersTable" priority="0" />
+      <Item value="CreateOrderDataTable" priority="0" />
+      <Item value="commandsequence" priority="0" />
+      <Item value="loopexec" priority="0" />
+      <Item value="seldbcmd" priority="3" />
+      <Item value="seldb" priority="1" />
+      <Item value="dbexception" priority="0" />
+      <Item value="CreateMessageLogTable" priority="0" />
+      <Item value="addsqlfmt" priority="1" />
+      <Item value="MessageType" priority="1" />
+      <Item value="LogID" priority="5" />
+      <Item value="DbDataAdapter" priority="1" />
+      <Item value="DataColumnMapping" priority="0" />
+      <Item value="DataSet" priority="1" />
+      <Item value="dset" priority="3" />
+      <Item value="grabreader" priority="1" />
+      <Item value="DataContext" priority="0" />
+      <Item value="Collections" priority="2" />
+      <Item value="ObjectModel" priority="2" />
+      <Item value="sqlgetquery" priority="0" />
+      <Item value="gotdatetime" priority="0" />
+      <Item value="MessageID" priority="0" />
+      <Item value="pMessageID" priority="0" />
+      <Item value="UpdateMessages" priority="1" />
+      <Item value="createcollection" priority="2" />
+      <Item value="updateCollection" priority="5" />
+      <Item value="grabID" priority="4" />
+      <Item value="changeitem" priority="8" />
+      <Item value="Messagetype" priority="1" />
+      <Item value="TStamp" priority="1" />
+      <Item value="pLogID" priority="0" />
+      <Item value="List&lt;ObservableCollection&lt;MessageActivityLogItem&gt;&gt;" priority="0" />
+      <Item value="MessageLogCollections" priority="6" />
+      <Item value="sqlfmt" priority="3" />
+      <Item value="messagetype" priority="0" />
+      <Item value="loopentry" priority="1" />
+      <Item value="GeneralLog" priority="1" />
+      <Item value="diff" priority="0" />
+      <Item value="FormatTimeSpan" priority="2" />
+      <Item value="allorders" priority="5" />
+      <Item value="IComparer" priority="0" />
+      <Item value="GenericListViewSorter" priority="10" />
+      <Item value="delegate" priority="6" />
+      <Item value="GetCompareValue" priority="3" />
+      <Item value="Item" priority="2" />
+      <Item value="Sorter" priority="0" />
+      <Item value="ColumnName" priority="0" />
+      <Item value="indexuse" priority="0" />
+      <Item value="GetCompareRoutine" priority="0" />
+      <Item value="CompareValueFunc" priority="0" />
+      <Item value="GetCompareValue_Default" priority="0" />
+      <Item value="handleListView" priority="14" />
+      <Item value="SortOrder" priority="12" />
+      <Item value="Enum" priority="4" />
+      <Item value="CurrentSortColumn" priority="13" />
+      <Item value="OurListView" priority="18" />
+      <Item value="CurrSortIndex" priority="6" />
+      <Item value="SortOrders" priority="2" />
+      <Item value="Length" priority="18" />
+      <Item value="getconnect" priority="0" />
+      <Item value="grCom" priority="1" />
+      <Item value="runquery" priority="0" />
+      <Item value="ImageLayout" priority="0" />
+      <Item value="ImageList" priority="6" />
+      <Item value="UseColumnImageList" priority="6" />
+      <Item value="AscendingImage" priority="1" />
+      <Item value="clickedcolumn" priority="1" />
+      <Item value="columnnameuse" priority="1" />
+      <Item value="a" priority="0" />
+      <Item value="b" priority="1" />
+      <Item value="checkA" priority="1" />
+      <Item value="IComparable" priority="2" />
+      <Item value="CheckBoxRenderer" priority="1" />
+      <Item value="checkB" priority="1" />
+      <Item value="UserListSorter" priority="0" />
+      <Item value="ASCIIEncoding" priority="0" />
+      <Item value="asc" priority="1" />
+      <Item value="desc" priority="2" />
+      <Item value="OrderListSorter" priority="0" />
+      <Item value="HorizontalAlignment" priority="2" />
+      <Item value="Bitmap" priority="8" />
+      <Item value="Graphics" priority="7" />
+      <Item value="EmptyImage" priority="0" />
+      <Item value="CreateClockedTable" priority="0" />
+      <Item value="gotcon" priority="1" />
+      <Item value="issueuse" priority="1" />
+      <Item value="MessageBoxIcon" priority="2" />
+      <Item value="tabimagelist" priority="1" />
+      <Item value="tabGeneral" priority="1" />
+      <Item value="createimages" priority="0" />
+      <Item value="addthis" priority="0" />
+      <Item value="TabPageOrders" priority="0" />
+      <Item value="tabPageReporting" priority="1" />
+      <Item value="txtConnectionString" priority="1" />
+      <Item value="txtDatabaseName" priority="1" />
+      <Item value="ConnectionTypeConstants" priority="4" />
+      <Item value="switch" priority="9" />
+      <Item value="contype" priority="0" />
+      <Item value="case" priority="21" />
+      <Item value="cmdReinitialize" priority="1" />
+      <Item value="KeyboardInfo" priority="2" />
+      <Item value="cmdReinitialize_Click" priority="0" />
+      <Item value="EventArgs" priority="0" />
+      <Item value="Random" priority="1" />
+      <Item value="rnd" priority="3" />
+      <Item value="txtOrderID" priority="3" />
+      <Item value="txtDescription" priority="1" />
+      <Item value="sqlupdateOrderIDfmt" priority="0" />
+      <Item value="addorderitem" priority="2" />
+      <Item value="AddNewOrder" priority="0" />
+      <Item value="txtSingleWorkOrderMode" priority="3" />
+      <Item value="chkSingleWorkorderMode" priority="2" />
+      <Item value="sbuild" priority="14" />
+      <Item value="usecredentials" priority="7" />
+      <Item value="mUserName" priority="0" />
+      <Item value="txtUserID" priority="1" />
+      <Item value="mPassword" priority="0" />
+      <Item value="txtPassword" priority="1" />
+      <Item value="frmPasswordPrompt" priority="2" />
+      <Item value="promptdialog" priority="1" />
+      <Item value="ShowDialog" priority="0" />
+      <Item value="userID" priority="0" />
+      <Item value="password" priority="1" />
+      <Item value="username" priority="8" />
+      <Item value="prompteduser" priority="1" />
+      <Item value="promptedpassword" priority="1" />
+      <Item value="ss" priority="2" />
+      <Item value="lvwLogData" priority="4" />
+      <Item value="getlogquery" priority="0" />
+      <Item value="readlog" priority="8" />
+      <Item value="LogentryID" priority="1" />
+      <Item value="currentUsername" priority="0" />
+      <Item value="usesqlformat" priority="0" />
+      <Item value="INOUT" priority="0" />
+      <Item value="InsertClockedRecord" priority="1" />
+      <Item value="RefreshLogList" priority="0" />
+      <Item value="cons" priority="0" />
+      <Item value="sqldroplog" priority="0" />
+      <Item value="tStripImportUsers" priority="0" />
+      <Item value="OpenFileDialog" priority="2" />
+      <Item value="ofd" priority="10" />
+      <Item value="FileStream" priority="4" />
+      <Item value="usefilename" priority="1" />
+      <Item value="StreamReader" priority="1" />
+      <Item value="fs" priority="0" />
+      <Item value="currentline" priority="2" />
+      <Item value="sr" priority="1" />
+      <Item value="splitresult" priority="4" />
+      <Item value="CurrentPINs" priority="2" />
+      <Item value="adduserpin" priority="3" />
+      <Item value="do" priority="0" />
+      <Item value="StringFormat" priority="0" />
+      <Item value="addusername" priority="1" />
+      <Item value="continue" priority="0" />
+      <Item value="abstract" priority="5" />
+      <Item value="MultiTypeManager" priority="4" />
+      <Item value="mtypemanager" priority="1" />
+      <Item value="lookfolders" priority="0" />
+      <Item value="BaseDataExporter" priority="6" />
+      <Item value="Nullcallback" priority="0" />
+      <Item value="BASeCamp" priority="0" />
+      <Item value="ExcelExporter" priority="1" />
+      <Item value="ExcelExport" priority="0" />
+      <Item value="Microsoft" priority="0" />
+      <Item value="Office" priority="0" />
+      <Item value="Interop.Excel" priority="0" />
+      <Item value="Reflection" priority="0" />
+      <Item value="Excel" priority="4" />
+      <Item value="_Workbook" priority="1" />
+      <Item value="_Worksheet" priority="2" />
+      <Item value="xA" priority="3" />
+      <Item value="wb" priority="2" />
+      <Item value="Missing" priority="2" />
+      <Item value="Worksheet" priority="0" />
+      <Item value="BuildUsersWorkSheet" priority="0" />
+      <Item value="usesheet" priority="5" />
+      <Item value="StartTimes" priority="2" />
+      <Item value="EndTimes" priority="2" />
+      <Item value="ref" priority="7" />
+      <Item value="dt1" priority="0" />
+      <Item value="dt2" priority="2" />
+      <Item value="temp" priority="0" />
+      <Item value="struct" priority="3" />
+      <Item value="DateRange" priority="44" />
+      <Item value="StartTime" priority="2" />
+      <Item value="sTime" priority="1" />
+      <Item value="EndTime" priority="3" />
+      <Item value="RangeA" priority="5" />
+      <Item value="RangeB" priority="5" />
+      <Item value="AdminAppletlogfile" priority="0" />
+      <Item value="ConditionA" priority="0" />
+      <Item value="ConditionB" priority="1" />
+      <Item value="OrderedEnumerableRowCollection" priority="0" />
+      <Item value="newstart" priority="3" />
+      <Item value="Math" priority="0" />
+      <Item value="newEnd" priority="1" />
+      <Item value="Otherdaterange" priority="0" />
+      <Item value="x" priority="3" />
+      <Item value="ranges" priority="8" />
+      <Item value="ToList" priority="1" />
+      <Item value="Clone" priority="0" />
+      <Item value="ICloneable" priority="1" />
+      <Item value="ulong" priority="0" />
+      <Item value="anyoverlapped" priority="2" />
+      <Item value="xrange" priority="0" />
+      <Item value="List&lt;DateRange&gt;" priority="3" />
+      <Item value="workinglist" priority="1" />
+      <Item value="workarray" priority="1" />
+      <Item value="owner" priority="1" />
+      <Item value="CSVTargetFile" priority="2" />
+      <Item value="IgnoreAssemblies" priority="1" />
+      <Item value="allusers" priority="3" />
+      <Item value="iteratevalue" priority="5" />
+      <Item value="results" priority="2" />
+      <Item value="tsd" priority="2" />
+      <Item value="Tag" priority="0" />
+      <Item value="selectedRO" priority="3" />
+      <Item value="createitem" priority="10" />
+      <Item value="OutOfMemoryException" priority="0" />
+      <Item value="OrderDropItem" priority="0" />
+      <Item value="clicked" priority="0" />
+      <Item value="Join" priority="0" />
+      <Item value="_AppDomain" priority="1" />
+      <Item value="OrderDropItem_Click" priority="0" />
+      <Item value="Clockoutallorders" priority="3" />
+      <Item value="joinedusernames" priority="0" />
+      <Item value="Clockinallorders" priority="0" />
+      <Item value="Font" priority="2" />
+      <Item value="FontStyle" priority="2" />
+      <Item value="StartString" priority="0" />
+      <Item value="iStartString" priority="1" />
+      <Item value="cmdRunExporter" priority="1" />
+      <Item value="lstExporters" priority="2" />
+      <Item value="gotexportermanager" priority="0" />
+      <Item value="UID" priority="3" />
+      <Item value="splitvalues" priority="2" />
+      <Item value="doclockin" priority="1" />
+      <Item value="u" priority="0" />
+      <Item value="RO" priority="7" />
+      <Item value="GetUserClockState" priority="1" />
+      <Item value="Fromorder" priority="1" />
+      <Item value="ToggleUserClockin" priority="0" />
+      <Item value="cinout" priority="0" />
+      <Item value="uidinout" priority="1" />
+      <Item value="lvwExporters" priority="5" />
+      <Item value="Activator" priority="0" />
+      <Item value="iterateit" priority="0" />
+      <Item value="grabbedexporter" priority="1" />
+      <Item value="selectitem" priority="0" />
+      <Item value="grabexporter" priority="3" />
+      <Item value="acquired" priority="0" />
+      <Item value="UpdateOrderFields" priority="1" />
+      <Item value="TabPageLogs" priority="0" />
+      <Item value="Visibility" priority="8" />
+      <Item value="UserListExpander" priority="0" />
+      <Item value="dbObject" priority="9" />
+      <Item value="CSV" priority="3" />
+      <Item value="relatedsql" priority="0" />
+      <Item value="execsql" priority="1" />
+      <Item value="dconnection" priority="0" />
+      <Item value="dmc" priority="2" />
+      <Item value="runsql" priority="0" />
+      <Item value="Dictionary&lt;string,List&lt;DateRange&gt;&gt;" priority="1" />
+      <Item value="GetUsers" priority="1" />
+      <Item value="Allusers" priority="0" />
+      <Item value="buildsql" priority="0" />
+      <Item value="loopuserpin" priority="2" />
+      <Item value="BuildRanges" priority="2" />
+      <Item value="clearempty" priority="0" />
+      <Item value="AddUser" priority="0" />
+      <Item value="readerloop" priority="6" />
+      <Item value="getetype" priority="1" />
+      <Item value="usestart" priority="1" />
+      <Item value="useend" priority="1" />
+      <Item value="builddates" priority="1" />
+      <Item value="buildlist" priority="2" />
+      <Item value="loopit" priority="0" />
+      <Item value="coalesced" priority="0" />
+      <Item value="NewsStyleUriParser" priority="0" />
+      <Item value="buildsum" priority="1" />
+      <Item value="looptime" priority="0" />
+      <Item value="buildline" priority="3" />
+      <Item value="TotalROTime" priority="2" />
+      <Item value="gotuserdata" priority="1" />
+      <Item value="looporderdata" priority="3" />
+      <Item value="DbconnectThread" priority="1" />
+      <Item value="Thread" priority="5" />
+      <Item value="DbConnectionThreadRoutine" priority="1" />
+      <Item value="resultconnection" priority="0" />
+      <Item value="ThreadStart" priority="0" />
+      <Item value="WaitHandleCannotBeOpenedException" priority="1" />
+      <Item value="createdconnection" priority="1" />
+      <Item value="DbConnectionComplete" priority="0" />
+      <Item value="connectdelegate" priority="0" />
+      <Item value="castroutine" priority="0" />
+      <Item value="frmWaitMessage" priority="2" />
+      <Item value="usedisplaymessage" priority="1" />
+      <Item value="showmessage" priority="0" />
+      <Item value="lblDisplayMessage" priority="0" />
+      <Item value="WaitingForm" priority="7" />
+      <Item value="Forms" priority="4" />
+      <Item value="waitingconnection" priority="3" />
+      <Item value="Acquiredconnection" priority="1" />
+      <Item value="conobject" priority="0" />
+      <Item value="DbConnection_Async" priority="0" />
+      <Item value="pBarPleaseWait" priority="16" />
+      <Item value="ProgressBarStyle" priority="0" />
+      <Item value="AppDomain" priority="1" />
+      <Item value="TargetLogPath" priority="4" />
+      <Item value="FileWriter" priority="0" />
+      <Item value="fw" priority="5" />
+      <Item value="getobj" priority="3" />
+      <Item value="except" priority="5" />
+      <Item value="returnit" priority="3" />
+      <Item value="GetExceptionData" priority="2" />
+      <Item value="CurrentDomain_UnhandledException" priority="0" />
+      <Item value="ConnectionState" priority="0" />
+      <Item value="ApplicationException" priority="0" />
+      <Item value="CurrentConString" priority="4" />
+      <Item value="ex" priority="2" />
+      <Item value="WebPermission" priority="2" />
+      <Item value="wp" priority="1" />
+      <Item value="DnsPermission" priority="1" />
+      <Item value="dperm" priority="0" />
+      <Item value="Net" priority="0" />
+      <Item value="WriteDebugMessage" priority="2" />
+      <Item value="NavigationService" priority="0" />
+      <Item value="usersinfo" priority="0" />
+      <Item value="dlayer" priority="7" />
+      <Item value="currusername" priority="2" />
+      <Item value="foruser" priority="2" />
+      <Item value="activeorders" priority="2" />
+      <Item value="removeactive" priority="0" />
+      <Item value="StringBuilder" priority="8" />
+      <Item value="OrderIDs" priority="0" />
+      <Item value="buildresult" priority="6" />
+      <Item value="RelevantRecordsSQL" priority="0" />
+      <Item value="DatabaseStructureCorruptedException" priority="1" />
+      <Item value="base" priority="1" />
+      <Item value="readdata" priority="5" />
+      <Item value="getstarttime" priority="9" />
+      <Item value="getstamp" priority="3" />
+      <Item value="getendtime" priority="1" />
+      <Item value="buildlisting" priority="8" />
+      <Item value="buildrange" priority="1" />
+      <Item value="t" priority="5" />
+      <Item value="accumulator" priority="4" />
+      <Item value="usinglayer" priority="0" />
+      <Item value="UserID" priority="1" />
+      <Item value="ttime" priority="1" />
+      <Item value="FormattedLength" priority="0" />
+      <Item value="FormatOrderTimes" priority="1" />
+      <Item value="FinishedOrders" priority="0" />
+      <Item value="ActiveOrders" priority="0" />
+      <Item value="currentrow" priority="3" />
+      <Item value="curruserpin" priority="2" />
+      <Item value="sFinishedOrders" priority="0" />
+      <Item value="totaltime" priority="1" />
+      <Item value="List&lt;string[]&gt;" priority="0" />
+      <Item value="createlist" priority="1" />
+      <Item value="sUserPIN" priority="0" />
+      <Item value="tTotalTime" priority="0" />
+      <Item value="tStartTime" priority="2" />
+      <Item value="iteratearray" priority="0" />
+      <Item value="ws" priority="0" />
+      <Item value="getDebugOutputFilepath" priority="0" />
+      <Item value="File" priority="3" />
+      <Item value="dbgfile" priority="1" />
+      <Item value="Value" priority="6" />
+      <Item value="defaultval" priority="0" />
+      <Item value="GetBoolean" priority="0" />
+      <Item value="Formatme" priority="1" />
+      <Item value="FormatTS" priority="2" />
+      <Item value="sumROTime" priority="0" />
+      <Item value="sOrderID" priority="0" />
+      <Item value="GetUserDataFromOrder" priority="1" />
+      <Item value="Clipboard" priority="8" />
+      <Item value="copythis" priority="5" />
+      <Item value="itheader" priority="0" />
+      <Item value="iterateitem" priority="3" />
+      <Item value="loopsubitem" priority="0" />
+      <Item value="createditem" priority="1" />
+      <Item value="noordersitem" priority="1" />
+      <Item value="lvwtext" priority="1" />
+      <Item value="TextDataFormat" priority="8" />
+      <Item value="DoCopyListView" priority="0" />
+      <Item value="tStripCopyUsers" priority="0" />
+      <Item value="toolstripcopyorders" priority="0" />
+      <Item value="lv" priority="2" />
+      <Item value="arr" priority="1" />
+      <Item value="loopheader" priority="1" />
+      <Item value="Rectangle" priority="2" />
+      <Item value="DllImport" priority="2" />
+      <Item value="extern" priority="2" />
+      <Item value="EnumWindowCallBack" priority="1" />
+      <Item value="LayoutKind" priority="1" />
+      <Item value="RECT" priority="0" />
+      <Item value="GetWindowRect" priority="0" />
+      <Item value="hwnd" priority="0" />
+      <Item value="rct" priority="6" />
+      <Item value="_HeaderRect" priority="4" />
+      <Item value="ContextMenuStrip" priority="6" />
+      <Item value="_OriginalContextMenuStrip" priority="0" />
+      <Item value="_HeaderContextMenuStrip" priority="7" />
+      <Item value="_ghoststrip" priority="1" />
+      <Item value="EnumChildWindows" priority="0" />
+      <Item value="EnumWindowCallback" priority="0" />
+      <Item value="GetOrderedHeaders" priority="0" />
+      <Item value="textview" priority="0" />
+      <Item value="sum" priority="5" />
+      <Item value="header" priority="1" />
+      <Item value="xOffset" priority="0" />
+      <Item value="HeaderAtOffset" priority="0" />
+      <Item value="xoffset" priority="0" />
+      <Item value="clickedheader" priority="5" />
+      <Item value="AscendingHeaderItem" priority="4" />
+      <Item value="DescendingHeaderItem" priority="4" />
+      <Item value="clickeditem" priority="0" />
+      <Item value="Orders" priority="1" />
+      <Item value="GetUserTotalTimeOnOrder" priority="1" />
+      <Item value="gottime" priority="0" />
+      <Item value="tsstring" priority="0" />
+      <Item value="makeentry" priority="1" />
+      <Item value="buildarray" priority="1" />
+      <Item value="allthisusersorders" priority="0" />
+      <Item value="ThreadStaticAttribute" priority="0" />
+      <Item value="updateprogressthread" priority="2" />
+      <Item value="currvalue" priority="3" />
+      <Item value="_cancelthread" priority="0" />
+      <Item value="Left" priority="0" />
+      <Item value="Top" priority="0" />
+      <Item value="Right" priority="1" />
+      <Item value="GetCursorPos" priority="0" />
+      <Item value="cx" priority="1" />
+      <Item value="cy" priority="0" />
+      <Item value="StructLayout" priority="0" />
+      <Item value="POINTAPI" priority="1" />
+      <Item value="gapi" priority="1" />
+      <Item value="handleListView_ColumnClick" priority="0" />
+      <Item value="UserObject" priority="1" />
+      <Item value="OrderObject" priority="8" />
+      <Item value="dataobject" priority="0" />
+      <Item value="_OrderID" priority="0" />
+      <Item value="layerobject" priority="0" />
+      <Item value="dbobj" priority="7" />
+      <Item value="_UserPIN" priority="6" />
+      <Item value="setquery" priority="0" />
+      <Item value="List&lt;OrderObject&gt;" priority="0" />
+      <Item value="orderIDs" priority="2" />
+      <Item value="retrieveval" priority="1" />
+      <Item value="changeUSERfmt" priority="0" />
+      <Item value="changeOrderDatafmt" priority="0" />
+      <Item value="changeClockedfmt" priority="0" />
+      <Item value="runqueries" priority="0" />
+      <Item value="loopq" priority="0" />
+      <Item value="gq" priority="1" />
+      <Item value="useconnection" priority="0" />
+      <Item value="trans" priority="2" />
+      <Item value="erroroccured" priority="1" />
+      <Item value="updateTimer" priority="5" />
+      <Item value="Icon" priority="0" />
+      <Item value="enum" priority="0" />
+      <Item value="ListViewStringConstants" priority="2" />
+      <Item value="ListViewToString" priority="1" />
+      <Item value="lvsc" priority="1" />
+      <Item value="madestring" priority="10" />
+      <Item value="nativeHTMLString" priority="1" />
+      <Item value="Encoding" priority="1" />
+      <Item value="NavigateEventHandler" priority="0" />
+      <Item value="sb" priority="3" />
+      <Item value="UTF8Encoded" priority="3" />
+      <Item value="clipboardString" priority="1" />
+      <Item value="copyit" priority="0" />
+      <Item value="hasclockedinusers" priority="0" />
+      <Item value="tStripRemoveOrder" priority="0" />
+      <Item value="etype" priority="0" />
+      <Item value="formatthis" priority="0" />
+      <Item value="addvalue" priority="0" />
+      <Item value="buildrange2" priority="2" />
+      <Item value="sumticks" priority="1" />
+      <Item value="blisting" priority="0" />
+      <Item value="totalresult" priority="0" />
+      <Item value="Span" priority="0" />
+      <Item value="laststamp" priority="2" />
+      <Item value="lock" priority="5" />
+      <Item value="ExecuteQueryDirect" priority="0" />
+      <Item value="conuse" priority="1" />
+      <Item value="cmduse" priority="1" />
+      <Item value="ssread" priority="0" />
+      <Item value="DBTime" priority="0" />
+      <Item value="sqluse" priority="0" />
+      <Item value="ServerOffset" priority="1" />
+      <Item value="casted" priority="2" />
+      <Item value="checktype" priority="0" />
+      <Item value="madecon" priority="4" />
+      <Item value="ConString" priority="3" />
+      <Item value="OleDbConnection" priority="0" />
+      <Item value="CreateInnerConnection" priority="0" />
+      <Item value="Odbc" priority="0" />
+      <Item value="OdbcConnection" priority="0" />
+      <Item value="buildConnectionString" priority="0" />
+      <Item value="createfile" priority="1" />
+      <Item value="fmt" priority="1" />
+      <Item value="Forfilename" priority="0" />
+      <Item value="setcon" priority="0" />
+      <Item value="GetMDBFilePath" priority="0" />
+      <Item value="gotMDBPath" priority="0" />
+      <Item value="decimal" priority="0" />
+      <Item value="interface" priority="0" />
+      <Item value="QueryAdapter" priority="3" />
+      <Item value="GetQuery" priority="0" />
+      <Item value="index" priority="3" />
+      <Item value="Qlookup" priority="64" />
+      <Item value="QueryIdentifier" priority="2" />
+      <Item value="qAdapter" priority="54" />
+      <Item value="MySQLQueryAdapter" priority="1" />
+      <Item value="PINLookup" priority="0" />
+      <Item value="UserName" priority="1" />
+      <Item value="refreshexception" priority="0" />
+      <Item value="_qAdapter" priority="1" />
+      <Item value="protected" priority="1" />
+      <Item value="SQLServerQueryAdapter" priority="0" />
+      <Item value="_CategoryPrefix" priority="0" />
+      <Item value="CategoryPrefix" priority="0" />
+      <Item value="filename" priority="1" />
+      <Item value="WatchFS" priority="0" />
+      <Item value="event" priority="6" />
+      <Item value="Action" priority="5" />
+      <Item value="FileSystemWatcher" priority="1" />
+      <Item value="fsw" priority="2" />
+      <Item value="fullpath" priority="2" />
+      <Item value="pathonly" priority="0" />
+      <Item value="ININame" priority="0" />
+      <Item value="FileEvent" priority="1" />
+      <Item value="copyevent" priority="1" />
+      <Item value="connectionexception" priority="2" />
+      <Item value="cboReportBy" priority="4" />
+      <Item value="UserReportString" priority="3" />
+      <Item value="ROReportString" priority="4" />
+      <Item value="Selectedval" priority="1" />
+      <Item value="cboReportByListing" priority="10" />
+      <Item value="ROReportListEntry" priority="6" />
+      <Item value="_Order" priority="3" />
+      <Item value="_layerobject" priority="7" />
+      <Item value="dblayer" priority="3" />
+      <Item value="UserReportListEntry" priority="7" />
+      <Item value="response" priority="1" />
+      <Item value="iterateOrder" priority="0" />
+      <Item value="ROEntry" priority="0" />
+      <Item value="MouseWheel" priority="0" />
+      <Item value="Cursor" priority="0" />
+      <Item value="Cursors" priority="0" />
+      <Item value="dbool" priority="0" />
+      <Item value="parseresult" priority="3" />
+      <Item value="Default" priority="1" />
+      <Item value="xParse" priority="0" />
+      <Item value="boolEx" priority="1" />
+      <Item value="allUsers" priority="0" />
+      <Item value="iterateval" priority="17" />
+      <Item value="_UserName" priority="2" />
+      <Item value="PIN" priority="1" />
+      <Item value="urle" priority="0" />
+      <Item value="BasicDateRange" priority="7" />
+      <Item value="StartDate" priority="1" />
+      <Item value="pStartDate" priority="2" />
+      <Item value="EndDate" priority="1" />
+      <Item value="pEndDate" priority="3" />
+      <Item value="frmDateRangePicker" priority="5" />
+      <Item value="RangePicker" priority="7" />
+      <Item value="Cols" priority="0" />
+      <Item value="useDimensions" priority="1" />
+      <Item value="CurrentDateRange" priority="3" />
+      <Item value="currentvalue" priority="3" />
+      <Item value="_useTitle" priority="1" />
+      <Item value="usetitle" priority="0" />
+      <Item value="Text" priority="0" />
+      <Item value="Height" priority="1" />
+      <Item value="cmdCancel" priority="6" />
+      <Item value="cmdOK" priority="8" />
+      <Item value="Button" priority="0" />
+      <Item value="ButtonPressed" priority="4" />
+      <Item value="useTitle" priority="0" />
+      <Item value="cols" priority="0" />
+      <Item value="rows" priority="0" />
+      <Item value="pickerform" priority="0" />
+      <Item value="SelectionRange" priority="0" />
+      <Item value="ParseX" priority="2" />
+      <Item value="ParseIntX" priority="0" />
+      <Item value="fmtuse" priority="0" />
+      <Item value="lblSelectedRange" priority="0" />
+      <Item value="usetext" priority="0" />
+      <Item value="n" priority="4" />
+      <Item value="DayStart" priority="0" />
+      <Item value="DayEnd" priority="0" />
+      <Item value="_SelectedDateRange" priority="4" />
+      <Item value="lblReportPeriod" priority="0" />
+      <Item value="DateRangeChanged" priority="0" />
+      <Item value="copied" priority="9" />
+      <Item value="lvwReportResult" priority="41" />
+      <Item value="ReportListSorter" priority="0" />
+      <Item value="DateRange_Report" priority="10" />
+      <Item value="bdr" priority="1" />
+      <Item value="tstripCopyResult" priority="1" />
+      <Item value="fraDateRange" priority="3" />
+      <Item value="TabPageReporting" priority="1" />
+      <Item value="fraReportResult" priority="6" />
+      <Item value="toolStripReportResults" priority="2" />
+      <Item value="GopherStyleUriParser" priority="0" />
+      <Item value="usersorders" priority="2" />
+      <Item value="loopuserorder" priority="1" />
+      <Item value="dateinfo" priority="2" />
+      <Item value="reportrange" priority="7" />
+      <Item value="testdate" priority="1" />
+      <Item value="transformed" priority="1" />
+      <Item value="ListViewExtensions" priority="1" />
+      <Item value="lvtest" priority="2" />
+      <Item value="colcount" priority="0" />
+      <Item value="setwidth" priority="0" />
+      <Item value="Delegate" priority="0" />
+      <Item value="NaturalLanguageCopy" priority="4" />
+      <Item value="val" priority="4" />
+      <Item value="IterateOrder" priority="3" />
+      <Item value="OrderData" priority="2" />
+      <Item value="thisuserdata" priority="1" />
+      <Item value="iteratethis" priority="0" />
+      <Item value="GetUserWorkOrderRanges" priority="0" />
+      <Item value="orderranges" priority="0" />
+      <Item value="DaterangeStrings" priority="0" />
+      <Item value="Totaltime" priority="3" />
+      <Item value="useOrderID" priority="1" />
+      <Item value="columnstring" priority="0" />
+      <Item value="ReportByUser" priority="4" />
+      <Item value="AllOrdersReportString" priority="1" />
+      <Item value="ClearCurrent" priority="1" />
+      <Item value="OriginalValue" priority="0" />
+      <Item value="userentrydata" priority="0" />
+      <Item value="castentrydata" priority="7" />
+      <Item value="PrepareMulti" priority="1" />
+      <Item value="headertext" priority="0" />
+      <Item value="MultiUser" priority="6" />
+      <Item value="hascleared" priority="4" />
+      <Item value="tsbutton" priority="6" />
+      <Item value="DropDownListViewCopyData" priority="5" />
+      <Item value="lvw" priority="1" />
+      <Item value="plvw" priority="1" />
+      <Item value="buttonobject" priority="0" />
+      <Item value="pbuttonobject" priority="1" />
+      <Item value="ContentsName" priority="1" />
+      <Item value="pContentsName" priority="0" />
+      <Item value="lvwuse" priority="0" />
+      <Item value="tsdd" priority="3" />
+      <Item value="ddlvcd" priority="3" />
+      <Item value="DropDownItemListViewCopyData" priority="2" />
+      <Item value="ToolStrip" priority="0" />
+      <Item value="pitem" priority="0" />
+      <Item value="CopyID" priority="0" />
+      <Item value="pCopyID" priority="0" />
+      <Item value="ListViewToClipboard" priority="0" />
+      <Item value="CSVCopy" priority="2" />
+      <Item value="CopyType" priority="0" />
+      <Item value="HTMLCopy" priority="3" />
+      <Item value="ToolStripItem" priority="1" />
+      <Item value="words" priority="1" />
+      <Item value="delgo" priority="0" />
+      <Item value="UpdateRange" priority="0" />
+      <Item value="NotifyIcon" priority="1" />
+      <Item value="NotificationIcon" priority="12" />
+      <Item value="NotificationMenu" priority="5" />
+      <Item value="RestoreItem" priority="7" />
+      <Item value="HideItem" priority="4" />
+      <Item value="SystemIcons" priority="0" />
+      <Item value="QuitItem" priority="1" />
+      <Item value="AllowExit" priority="2" />
+      <Item value="Visible" priority="9" />
+      <Item value="ShowHideNotification" priority="2" />
+      <Item value="ToolTipIcon" priority="2" />
+      <Item value="CloseReason" priority="1" />
+      <Item value="Hide" priority="0" />
+      <Item value="args" priority="10" />
+      <Item value="Any" priority="0" />
+      <Item value="singlecharform" priority="0" />
+      <Item value="longform" priority="0" />
+      <Item value="CreateSwitchRegEx" priority="0" />
+      <Item value="Array" priority="1" />
+      <Item value="targs" priority="2" />
+      <Item value="Count" priority="0" />
+      <Item value="WindowState" priority="3" />
+      <Item value="FormWindowState" priority="2" />
+      <Item value="ChangeInfoConstants" priority="10" />
+      <Item value="Container" priority="0" />
+      <Item value="lvwUserListing" priority="20" />
+      <Item value="ClientRectangle" priority="1" />
+      <Item value="SizeConst" priority="0" />
+      <Item value="SortedDictionary" priority="0" />
+      <Item value="INIDataItem" priority="2" />
+      <Item value="gentype" priority="1" />
+      <Item value="dataitem" priority="4" />
+      <Item value="Convert" priority="0" />
+      <Item value="InvalidCastException" priority="0" />
+      <Item value="DefaultValue" priority="2" />
+      <Item value="GetTypeDefault" priority="1" />
+      <Item value="tt" priority="0" />
+      <Item value="defaultconstructor" priority="0" />
+      <Item value="usetype" priority="0" />
+      <Item value="BindingFlags" priority="0" />
+      <Item value="Binder" priority="0" />
+      <Item value="default" priority="2" />
+      <Item value="tpresult" priority="0" />
+      <Item value="passparams" priority="0" />
+      <Item value="newvalue" priority="0" />
+      <Item value="float" priority="0" />
+      <Item value="CUserDataWatcher" priority="5" />
+      <Item value="_RefreshTimems" priority="2" />
+      <Item value="_LastUserList" priority="9" />
+      <Item value="ActFunction" priority="0" />
+      <Item value="actFunction" priority="0" />
+      <Item value="ddcd" priority="8" />
+      <Item value="getresult" priority="2" />
+      <Item value="r" priority="4" />
+      <Item value="q" priority="2" />
+      <Item value="tStripExportResult" priority="1" />
+      <Item value="DataFormats" priority="0" />
+      <Item value="lvwic" priority="1" />
+      <Item value="ListViewGroup" priority="4" />
+      <Item value="addedgroup" priority="2" />
+      <Item value="TextInfo" priority="0" />
+      <Item value="cult" priority="0" />
+      <Item value="rtext" priority="1" />
+      <Item value="propcaseit" priority="0" />
+      <Item value="usegroup" priority="11" />
+      <Item value="Invalidate" priority="1" />
+      <Item value="Update" priority="1" />
+      <Item value="RefreshTimer" priority="3" />
+      <Item value="tryagain" priority="0" />
+      <Item value="RefreshListing" priority="0" />
+      <Item value="LEDColors" priority="3" />
+      <Item value="List&lt;Color&gt;" priority="0" />
+      <Item value="LEDs" priority="5" />
+      <Item value="List&lt;Bitmap&gt;" priority="0" />
+      <Item value="LEDGraphics" priority="2" />
+      <Item value="List&lt;Graphics&gt;" priority="0" />
+      <Item value="GraphicsPath" priority="1" />
+      <Item value="gpp" priority="4" />
+      <Item value="pathbrush" priority="5" />
+      <Item value="LEDColorsMiddle" priority="2" />
+      <Item value="j" priority="1" />
+      <Item value="surround" priority="2" />
+      <Item value="LEDColorsOuter" priority="2" />
+      <Item value="PointF" priority="0" />
+      <Item value="imlListView" priority="4" />
+      <Item value="CheckChanges" priority="0" />
+      <Item value="DBNull" priority="0" />
+      <Item value="database" priority="4" />
+      <Item value="CurrentUsers" priority="8" />
+      <Item value="UserRecord" priority="6" />
+      <Item value="pRecordID" priority="3" />
+      <Item value="pPINCode" priority="0" />
+      <Item value="pUsername" priority="0" />
+      <Item value="List&lt;UserRecord&gt;" priority="1" />
+      <Item value="grabPIN" priority="0" />
+      <Item value="WatchEventFunc" priority="0" />
+      <Item value="WatchEvent" priority="0" />
+      <Item value="changetype" priority="4" />
+      <Item value="oldRecord" priority="5" />
+      <Item value="newRecord" priority="24" />
+      <Item value="InvokeWatchEvent" priority="7" />
+      <Item value="iterate" priority="3" />
+      <Item value="CUserWatcher" priority="0" />
+      <Item value="userwatch" priority="3" />
+      <Item value="intimer" priority="1" />
+      <Item value="let" priority="0" />
+      <Item value="corr" priority="0" />
+      <Item value="oldu" priority="0" />
+      <Item value="Media" priority="0" />
+      <Item value="currrecord" priority="3" />
+      <Item value="oldrecord" priority="5" />
+      <Item value="Dictionary&lt;int,bool&gt;" priority="3" />
+      <Item value="CurrentClockState" priority="2" />
+      <Item value="iteraterecord" priority="2" />
+      <Item value="getclock" priority="0" />
+      <Item value="_prevclockstate" priority="0" />
+      <Item value="_LastOrderState" priority="5" />
+      <Item value="Dictionary&lt;int,List&lt;string&gt;&gt;" priority="0" />
+      <Item value="CurrentOrderState" priority="2" />
+      <Item value="userorder" priority="2" />
+      <Item value="UserDataClockStateDifference" priority="0" />
+      <Item value="BeforeState" priority="0" />
+      <Item value="pBefore" priority="0" />
+      <Item value="AfterState" priority="0" />
+      <Item value="pAfter" priority="0" />
+      <Item value="finditem" priority="1" />
+      <Item value="changednameitem" priority="1" />
+      <Item value="Invoke" priority="2" />
+      <Item value="InvokeRequired" priority="1" />
+      <Item value="userwatch_WatchEvent" priority="3" />
+      <Item value="extradata" priority="2" />
+      <Item value="ColorDepth" priority="0" />
+      <Item value="busytext" priority="2" />
+      <Item value="dcommand" priority="1" />
+      <Item value="laststart" priority="0" />
+      <Item value="returndate" priority="0" />
+      <Item value="currcheck" priority="2" />
+      <Item value="currentminimum" priority="3" />
+      <Item value="userorders" priority="2" />
+      <Item value="clockedout" priority="4" />
+      <Item value="currentMinimum" priority="1" />
+      <Item value="currentMax" priority="1" />
+      <Item value="lblPINpass" priority="1" />
+      <Item value="input" priority="0" />
+      <Item value="build" priority="1" />
+      <Item value="MonitorRefreshDelay" priority="0" />
+      <Item value="chkHidePIN" priority="1" />
+      <Item value="ReportByOrder" priority="2" />
+      <Item value="oldselItem_User" priority="0" />
+      <Item value="BeforeSelItemChange" priority="3" />
+      <Item value="lvwListView" priority="3" />
+      <Item value="lvwobj" priority="2" />
+      <Item value="currentitem" priority="1" />
+      <Item value="fireChange" priority="0" />
+      <Item value="previtem" priority="0" />
+      <Item value="nextitem" priority="0" />
+      <Item value="InvokeChange" priority="0" />
+      <Item value="MonitorSelChange" priority="1" />
+      <Item value="OrderSelChange" priority="1" />
+      <Item value="UserSelChange" priority="1" />
+      <Item value="Validate" priority="0" />
+      <Item value="orderuserdata" priority="4" />
+      <Item value="bud" priority="14" />
+      <Item value="flActiveOnly" priority="3" />
+      <Item value="StartRange" priority="2" />
+      <Item value="EndRange" priority="1" />
+      <Item value="Tfmt" priority="2" />
+      <Item value="BuildBreakdown" priority="0" />
+      <Item value="buildbreakdown" priority="0" />
+      <Item value="AccumulatedTime" priority="2" />
+      <Item value="additem" priority="7" />
+      <Item value="useTotaltime" priority="1" />
+      <Item value="usebreakdown" priority="4" />
+      <Item value="OwnerINI" priority="0" />
+      <Item value="INISection" priority="2" />
+      <Item value="OwnerSection" priority="8" />
+      <Item value="ownersection" priority="0" />
+      <Item value="currentSection" priority="0" />
+      <Item value="BeforeRetrieveValueFunc" priority="0" />
+      <Item value="internal" priority="1" />
+      <Item value="BeforeRetrieveValue" priority="1" />
+      <Item value="sSection" priority="1" />
+      <Item value="sValue" priority="1" />
+      <Item value="expandedstring" priority="0" />
+      <Item value="reffed" priority="0" />
+      <Item value="implicit" priority="0" />
+      <Item value="operator" priority="0" />
+      <Item value="stimenull" priority="3" />
+      <Item value="userworkrange" priority="0" />
+      <Item value="tspans" priority="3" />
+      <Item value="iteratespan" priority="2" />
+      <Item value="ddlc" priority="0" />
+      <Item value="usefilter" priority="1" />
+      <Item value="SaveFileDialog" priority="1" />
+      <Item value="sfd" priority="3" />
+      <Item value="writeit" priority="1" />
+      <Item value="ExportThis" priority="0" />
+      <Item value="columnseparator" priority="3" />
+      <Item value="rowseparator" priority="3" />
+      <Item value="QuerySQL" priority="0" />
+      <Item value="BuildList" priority="1" />
+      <Item value="doadd" priority="3" />
+      <Item value="queryfmt" priority="2" />
+      <Item value="ddr" priority="6" />
+      <Item value="Activestate" priority="2" />
+      <Item value="Queryfmt" priority="0" />
+      <Item value="chkActive" priority="4" />
+      <Item value="_LastActiveState" priority="3" />
+      <Item value="ReaderWriterLockSlim" priority="0" />
+      <Item value="dread" priority="4" />
+      <Item value="makedict" priority="1" />
+      <Item value="addint" priority="0" />
+      <Item value="usebool" priority="0" />
+      <Item value="Active" priority="0" />
+      <Item value="pActive" priority="0" />
+      <Item value="CurrentActiveState" priority="3" />
+      <Item value="newstate" priority="0" />
+      <Item value="List&lt;bool&gt;" priority="0" />
+      <Item value="AllActivestates" priority="1" />
+      <Item value="activestate" priority="0" />
+      <Item value="astate" priority="0" />
+      <Item value="usesize" priority="2" />
+      <Item value="earlytime" priority="0" />
+      <Item value="pinvalid" priority="0" />
+      <Item value="AlertMessage" priority="0" />
+      <Item value="useractiveorders" priority="5" />
+      <Item value="makecommand" priority="1" />
+      <Item value="screwitusesql" priority="0" />
+      <Item value="FormatUserOrderInfo" priority="2" />
+      <Item value="o" priority="0" />
+      <Item value="gettime" priority="5" />
+      <Item value="theuseformat" priority="0" />
+      <Item value="thedatestring" priority="2" />
+      <Item value="MonitorSorter" priority="0" />
+      <Item value="Clockedingroup" priority="1" />
+      <Item value="isclocked" priority="1" />
+      <Item value="Clockedoutgroup" priority="0" />
+      <Item value="useTotalTime" priority="0" />
+      <Item value="TotalTimeSum" priority="0" />
+      <Item value="breakup" priority="1" />
+      <Item value="ClockedOrderListItem" priority="2" />
+      <Item value="pRO" priority="0" />
+      <Item value="Description" priority="1" />
+      <Item value="pDescription" priority="0" />
+      <Item value="lstExistingOrders" priority="2" />
+      <Item value="Clockedin" priority="1" />
+      <Item value="setorders" priority="2" />
+      <Item value="grabitem" priority="0" />
+      <Item value="convertuserdata" priority="4" />
+      <Item value="addtolist" priority="2" />
+      <Item value="iterateorder" priority="3" />
+      <Item value="List&lt;BasicUserOrderData&gt;" priority="0" />
+      <Item value="iteratedict" priority="3" />
+      <Item value="timesum" priority="1" />
+      <Item value="iteratelist" priority="0" />
+      <Item value="buod" priority="2" />
+      <Item value="createnew" priority="0" />
+      <Item value="NullReferenceException" priority="0" />
+      <Item value="MinimumSize" priority="0" />
+      <Item value="GroupColumnName" priority="2" />
+      <Item value="pGroupColumnName" priority="0" />
+      <Item value="pGroupName" priority="1" />
+      <Item value="tdf" priority="0" />
+      <Item value="RetrieveValueFunc" priority="0" />
+      <Item value="SetValueFunc" priority="0" />
+      <Item value="SectionName" priority="5" />
+      <Item value="ValueName" priority="5" />
+      <Item value="updatesql" priority="1" />
+      <Item value="getConfigSettingDB" priority="0" />
+      <Item value="testDBvalue" priority="1" />
+      <Item value="setConfigSettingDB" priority="0" />
+      <Item value="ObjectDisposedException" priority="0" />
+      <Item value="gettimex" priority="1" />
+      <Item value="k" priority="0" />
+      <Item value="elapsed" priority="2" />
+      <Item value="MonitorUpdateTimer" priority="4" />
+      <Item value="CreateParams" priority="0" />
+      <Item value="usedatabase" priority="0" />
+      <Item value="execreader" priority="7" />
+      <Item value="clockedin" priority="0" />
+      <Item value="Updateactive" priority="2" />
+      <Item value="finally" priority="0" />
+      <Item value="ItemChanged" priority="4" />
+      <Item value="formatted" priority="0" />
+      <Item value="usesubitemtext" priority="1" />
+      <Item value="timercount" priority="2" />
+      <Item value="chkAutoAddOrders" priority="0" />
+      <Item value="chkuserlisting" priority="1" />
+      <Item value="InnerColours" priority="0" />
+      <Item value="OuterColours" priority="0" />
+      <Item value="GetLEDImage" priority="0" />
+      <Item value="innercolor" priority="0" />
+      <Item value="Outercolor" priority="0" />
+      <Item value="drawbitmap" priority="0" />
+      <Item value="_usesize" priority="0" />
+      <Item value="LEDImages" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.OleDb.OleDbDataReader">
+      <Item value="IsDBNull" priority="0" />
+      <Item value="GetOrdinal" priority="3" />
+      <Item value="HasRows" priority="0" />
+      <Item value="GetDateTime" priority="0" />
+      <Item value="GetTimeSpan" priority="0" />
+      <Item value="GetString" priority="0" />
+      <Item value="Read" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="Print" priority="30" />
+      <Item value="Assert" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.OleDb.OleDbCommand">
+      <Item value="CommandText" priority="2" />
+      <Item value="ExecuteNonQuery" priority="2" />
+      <Item value="Disposed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format" priority="79" />
+      <Item value="IsNullOrEmpty" priority="4" />
+      <Item value="Join" priority="11" />
+      <Item value="Equals" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="20" />
+      <Item value="Today" priority="0" />
+      <Item value="MaxValue" priority="3" />
+      <Item value="MinValue" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClock.DataLayer">
+      <Item value="SeedDB" priority="0" />
+      <Item value="LookupPIN" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="9" />
+      <Item value="StackTrace" priority="2" />
+      <Item value="Source" priority="0" />
+      <Item value="InnerException" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="SpecialFolder" priority="1" />
+      <Item value="GetFolderPath" priority="3" />
+      <Item value="NewLine" priority="9" />
+      <Item value="GetCommandLineArgs" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment+SpecialFolder">
+      <Item value="ApplicationData" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="Combine" priority="6" />
+      <Item value="GetFileName" priority="0" />
+      <Item value="GetFullPath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BCJobClock.DataLayer">
+      <Item value="getDatabaseFile" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Label">
+      <Item value="Content" priority="6" />
+      <Item value="Visibility" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BASeCamp.Configuration.INIDataItem">
+      <Item value="Value" priority="47" />
+      <Item value="GetBoolean" priority="0" />
+      <Item value="GetValue" priority="1" />
+      <Item value="OwnerSection" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="StartsWith" priority="0" />
+      <Item value="Substring" priority="1" />
+      <Item value="IndexOf" priority="3" />
+      <Item value="Contains" priority="2" />
+      <Item value="ToUpper" priority="7" />
+      <Item value="Split" priority="4" />
+      <Item value="Equals" priority="3" />
+      <Item value="Length" priority="4" />
+      <Item value="Trim" priority="7" />
+      <Item value="Replace" priority="1" />
+      <Item value="TestRegex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySql.Data.MySqlClient.MySqlCommand">
+      <Item value="CommandText" priority="1" />
+      <Item value="ExecuteReader" priority="1" />
+      <Item value="ExecuteNonQuery" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySql.Data.MySqlClient.MySqlDataReader">
+      <Item value="HasRows" priority="1" />
+      <Item value="Read" priority="1" />
+      <Item value="GetString" priority="0" />
+      <Item value="GetOrdinal" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySql.Data.MySqlClient.MySqlConnection">
+      <Item value="Close" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Boolean">
+      <Item value="ToString" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClockLib.JobClockConfig">
+      <Item value="ConnectionString" priority="2" />
+      <Item value="AutoAddOrders" priority="2" />
+      <Item value="WorkOrderMaxLength" priority="4" />
+      <Item value="WorkOrderMinLength" priority="2" />
+      <Item value="SingleWorkOrderMode" priority="4" />
+      <Item value="PINCodeMaxLength" priority="1" />
+      <Item value="DatabaseName" priority="5" />
+      <Item value="ClientConnectionString" priority="2" />
+      <Item value="AdminConnectionString" priority="1" />
+      <Item value="AdminCredentials" priority="0" />
+      <Item value="ClientCredentials" priority="0" />
+      <Item value="Client_ShowActivityLog" priority="0" />
+      <Item value="Client_ShowUserList" priority="2" />
+      <Item value="Admin_RefreshIntervalms" priority="0" />
+      <Item value="PurgeLogOnStartup" priority="0" />
+      <Item value="DatabaseType" priority="0" />
+      <Item value="ReportList_ShowOrderDescription" priority="0" />
+      <Item value="ReportList_ShowUserPINCode" priority="0" />
+      <Item value="ReportList_ShowAllOptionOrders" priority="0" />
+      <Item value="ReportList_ShowAllOptionUsers" priority="0" />
+      <Item value="DateRangePicker_ColumnCount" priority="1" />
+      <Item value="PopulateUserOrderDropdown" priority="0" />
+      <Item value="MonitorRefreshDelay" priority="0" />
+      <Item value="Monitor_NotifyAvailableTech" priority="0" />
+      <Item value="Monitor_PasswordPIN" priority="0" />
+      <Item value="Client_PasswordPIN" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="9" />
+      <Item value="Exists" priority="0" />
+      <Item value="Count" priority="7" />
+      <Item value="ToArray" priority="3" />
+      <Item value="RemoveRange" priority="1" />
+      <Item value="Sum" priority="0" />
+      <Item value="Reverse" priority="1" />
+      <Item value="AddRange" priority="0" />
+      <Item value="Contains" priority="0" />
+      <Item value="First" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Common.DbDataReader">
+      <Item value="GetDateTime" priority="11" />
+      <Item value="HasRows" priority="6" />
+      <Item value="Read" priority="24" />
+      <Item value="GetString" priority="18" />
+      <Item value="GetOrdinal" priority="41" />
+      <Item value="IsDBNull" priority="6" />
+      <Item value="GetTimeSpan" priority="0" />
+      <Item value="GetInt64" priority="3" />
+      <Item value="Close" priority="6" />
+      <Item value="GetInt32" priority="1" />
+      <Item value="GetDecimal" priority="0" />
+      <Item value="GetInt16" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Ticks" priority="0" />
+      <Item value="Year" priority="1" />
+      <Item value="Month" priority="2" />
+      <Item value="Day" priority="2" />
+      <Item value="Hour" priority="1" />
+      <Item value="Minute" priority="0" />
+      <Item value="Second" priority="0" />
+      <Item value="getSQLfmt" priority="5" />
+      <Item value="ToString" priority="6" />
+      <Item value="ToShortDateString" priority="5" />
+      <Item value="Subtract" priority="3" />
+      <Item value="TimeOfDay" priority="1" />
+      <Item value="AddDays" priority="1" />
+      <Item value="ToShortTimeString" priority="2" />
+      <Item value="DayOfWeek" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListView">
+      <Item value="Items" priority="24" />
+      <Item value="Columns" priority="39" />
+      <Item value="ClientSize" priority="4" />
+      <Item value="DataBindings" priority="0" />
+      <Item value="SelectedItems" priority="19" />
+      <Item value="Tag" priority="0" />
+      <Item value="Top" priority="1" />
+      <Item value="Height" priority="0" />
+      <Item value="Width" priority="0" />
+      <Item value="ColumnClick" priority="0" />
+      <Item value="SmallImageList" priority="3" />
+      <Item value="ListViewItemSorter" priority="2" />
+      <Item value="Sort" priority="1" />
+      <Item value="Sorting" priority="3" />
+      <Item value="SetSortIcon" priority="0" />
+      <Item value="ContextMenuStrip" priority="7" />
+      <Item value="Handle" priority="0" />
+      <Item value="ContextMenuStripChanged" priority="0" />
+      <Item value="Location" priority="1" />
+      <Item value="Size" priority="1" />
+      <Item value="SizeColumnsEqual" priority="3" />
+      <Item value="InitCopyDropDown" priority="1" />
+      <Item value="Groups" priority="12" />
+      <Item value="ShowGroups" priority="8" />
+      <Item value="SelectedIndexChanged" priority="0" />
+      <Item value="GotFocus" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListView+ListViewItemCollection">
+      <Item value="Clear" priority="4" />
+      <Item value="Add" priority="9" />
+      <Item value="Remove" priority="1" />
+      <Item value="AsQueryable" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListView+ColumnHeaderCollection">
+      <Item value="Clear" priority="4" />
+      <Item value="Add" priority="23" />
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Width" priority="10" />
+      <Item value="Height" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClockLib.DataLayer">
+      <Item value="GetConnection" priority="17" />
+      <Item value="GetTotalClockedTimeForUser" priority="1" />
+      <Item value="GetActiveJobCountForUser" priority="3" />
+      <Item value="Configuration" priority="47" />
+      <Item value="ToggleUserClockin" priority="2" />
+      <Item value="GetUsers" priority="6" />
+      <Item value="GetUserOrders" priority="14" />
+      <Item value="GetAllOrderIDs" priority="5" />
+      <Item value="ClockOutOrder" priority="2" />
+      <Item value="GetWorkOrderDates" priority="0" />
+      <Item value="GetTotalClockedTimeForOrder" priority="1" />
+      <Item value="GetWorkOrderActiveWorkers" priority="0" />
+      <Item value="ExecuteQueryDirect" priority="2" />
+      <Item value="GetLastClockOutFor" priority="0" />
+      <Item value="GetLastClockOutForOrder" priority="0" />
+      <Item value="UserNameFromPIN" priority="5" />
+      <Item value="LogMessage" priority="0" />
+      <Item value="GetLogMessages" priority="0" />
+      <Item value="GetLastClockOutForUser" priority="0" />
+      <Item value="ReInitializeDB" priority="1" />
+      <Item value="DatabaseName" priority="0" />
+      <Item value="AddUser" priority="0" />
+      <Item value="mtypemanager" priority="0" />
+      <Item value="GetUserPIN" priority="1" />
+      <Item value="ClockUserIn" priority="0" />
+      <Item value="GetOrderDescription" priority="2" />
+      <Item value="GetOrderTime" priority="1" />
+      <Item value="GetUserDataFromOrder" priority="3" />
+      <Item value="DbConnection_Progress" priority="1" />
+      <Item value="buildConnectionString" priority="2" />
+      <Item value="WriteDebugMessage" priority="2" />
+      <Item value="GetUserFinishedOrders" priority="1" />
+      <Item value="GetUserTotalTimeOnOrder" priority="1" />
+      <Item value="ListViewToString" priority="0" />
+      <Item value="FormatUserOrderList" priority="0" />
+      <Item value="ListViewToClipboard" priority="0" />
+      <Item value="DBTime" priority="0" />
+      <Item value="SetConnectionString" priority="0" />
+      <Item value="CreateMDBConnectionString" priority="0" />
+      <Item value="qAdapter" priority="8" />
+      <Item value="GetWorkOrderDate" priority="0" />
+      <Item value="GetUserWorkOrderRanges" priority="1" />
+      <Item value="GetUserClockState" priority="0" />
+      <Item value="GetLastStartTimeForOrder" priority="0" />
+      <Item value="IsUserActive" priority="4" />
+      <Item value="SetUserActive" priority="0" />
+      <Item value="GetUserActiveStates" priority="0" />
+      <Item value="LookupPIN" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Common.DbConnection">
+      <Item value="CreateCommand" priority="13" />
+      <Item value="Database" priority="0" />
+      <Item value="Open" priority="0" />
+      <Item value="BeginTransaction" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Common.DbCommand">
+      <Item value="CommandText" priority="52" />
+      <Item value="ExecuteReader" priority="26" />
+      <Item value="ExecuteScalar" priority="10" />
+      <Item value="ExecuteNonQuery" priority="15" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Hours" priority="6" />
+      <Item value="TotalHours" priority="16" />
+      <Item value="TotalMinutes" priority="1" />
+      <Item value="Minutes" priority="17" />
+      <Item value="TotalMilliseconds" priority="0" />
+      <Item value="ToString" priority="2" />
+      <Item value="Ticks" priority="0" />
+      <Item value="Days" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString" priority="21" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int64">
+      <Item value="ToString" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListView+SelectedListViewItemCollection">
+      <Item value="Count" priority="7" />
+      <Item value="Clear" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Enabled" priority="4" />
+      <Item value="Text" priority="33" />
+      <Item value="BackColor" priority="2" />
+      <Item value="Multiline" priority="0" />
+      <Item value="KeyDown" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListViewItem">
+      <Item value="SubItems" priority="23" />
+      <Item value="Text" priority="14" />
+      <Item value="Tag" priority="16" />
+      <Item value="Selected" priority="3" />
+      <Item value="ImageIndex" priority="1" />
+      <Item value="Name" priority="0" />
+      <Item value="Group" priority="7" />
+      <Item value="ForeColor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListViewItem+ListViewSubItem">
+      <Item value="Text" priority="21" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.CancelEventArgs">
+      <Item value="Cancel" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolTip">
+      <Item value="SetToolTip" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Pink" priority="0" />
+      <Item value="Red" priority="4" />
+      <Item value="Green" priority="3" />
+      <Item value="Transparent" priority="1" />
+      <Item value="DarkRed" priority="0" />
+      <Item value="DarkGreen" priority="0" />
+      <Item value="Gray" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.SystemColors">
+      <Item value="Window" priority="0" />
+      <Item value="WindowText" priority="0" />
+      <Item value="InactiveCaptionText" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JobClockAdmin.frmJobClockAdmin">
+      <Item value="components" priority="0" />
+      <Item value="Invoke" priority="0" />
+      <Item value="ValidateChildren" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.IContainer">
+      <Item value="Components" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control">
+      <Item value="StyleChanged" priority="0" />
+      <Item value="Bottom" priority="0" />
+      <Item value="Width" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.KeyEventArgs">
+      <Item value="KeyCode" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Keys">
+      <Item value="Enter" priority="1" />
+      <Item value="Return" priority="0" />
+      <Item value="Shift" priority="0" />
+      <Item value="Control" priority="1" />
+      <Item value="ShiftKey" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.ValidationConstraints">
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int64">
+      <Item value="TryParse" priority="0" />
+      <Item value="Parse" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString" priority="8" />
+      <Item value="GetType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="4" />
+      <Item value="Visible" priority="2" />
+      <Item value="Location" priority="0" />
+      <Item value="AutoSize" priority="0" />
+      <Item value="Size" priority="0" />
+      <Item value="Width" priority="0" />
+      <Item value="BackColor" priority="0" />
+      <Item value="BringToFront" priority="0" />
+      <Item value="Site" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey" priority="2" />
+      <Item value="Count" priority="1" />
+      <Item value="Values" priority="1" />
+      <Item value="Add" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetCallingAssembly" priority="1" />
+      <Item value="GetAssembly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Assembly">
+      <Item value="GetName" priority="5" />
+      <Item value="Location" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.AssemblyName">
+      <Item value="FullName" priority="1" />
+      <Item value="Version" priority="2" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Version">
+      <Item value="ToString" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClock.wndJobClock">
+      <Item value="GetVersionData" priority="0" />
+      <Item value="FindVisualParent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse" priority="7" />
+      <Item value="TryParse" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.DependencyProperty">
+      <Item value="RegisterAttached" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.DependencyObject">
+      <Item value="GetValue" priority="1" />
+      <Item value="SetValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.DependencyPropertyChangedEventArgs">
+      <Item value="NewValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="DependencyObjectType" priority="1" />
+      <Item value="PreviewTextInput" priority="1" />
+      <Item value="PreviewKeyDown" priority="1" />
+      <Item value="MaxLength" priority="0" />
+      <Item value="Focus" priority="1" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.TextCompositionEventArgs">
+      <Item value="Text" priority="0" />
+      <Item value="Handled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.KeyEventArgs">
+      <Item value="Key" priority="1" />
+      <Item value="Handled" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Input.Key">
+      <Item value="Space" priority="0" />
+      <Item value="Enter" priority="0" />
+      <Item value="Return" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Common.DataAdapter">
+      <Item value="TableMappings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Common.DataTableMappingCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.Dispatcher">
+      <Item value="Invoke" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.DispatcherTimer">
+      <Item value="Interval" priority="0" />
+      <Item value="Tick" priority="0" />
+      <Item value="Start" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ListBox">
+      <Item value="Items" priority="1" />
+      <Item value="ItemsSource" priority="3" />
+      <Item value="DataContext" priority="0" />
+      <Item value="Visibility" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemCollection">
+      <Item value="Clear" priority="0" />
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="8" />
+      <Item value="Value" priority="13" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripButton">
+      <Item value="Image" priority="7" />
+      <Item value="Enabled" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Image">
+      <Item value="FromFile" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BCJobClockLib.JobClockConfig">
+      <Item value="GetAppDataFolder" priority="2" />
+      <Item value="Imageman" priority="13" />
+      <Item value="GetExportLibFolder" priority="0" />
+      <Item value="OurINI" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.DirectoryInfo">
+      <Item value="GetFiles" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClockLib.ImageManager">
+      <Item value="GetLoadedImage" priority="12" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClock.wndJobClock+UserNameListItem">
+      <Item value="PINCode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Bitmap">
+      <Item value="GetHbitmap" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IntPtr">
+      <Item value="Zero" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Int32Rect">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Imaging.BitmapSizeOptions">
+      <Item value="FromEmptyOptions" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripDropDownButton">
+      <Item value="Enabled" priority="2" />
+      <Item value="DropDownItems" priority="11" />
+      <Item value="Image" priority="1" />
+      <Item value="Text" priority="0" />
+      <Item value="DropDownOpening" priority="0" />
+      <Item value="Tag" priority="1" />
+      <Item value="DropDown" priority="1" />
+      <Item value="ToolTipText" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripItemCollection">
+      <Item value="Clear" priority="2" />
+      <Item value="Add" priority="15" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripMenuItem">
+      <Item value="Text" priority="3" />
+      <Item value="ForeColor" priority="5" />
+      <Item value="Tag" priority="8" />
+      <Item value="Click" priority="8" />
+      <Item value="Image" priority="0" />
+      <Item value="Enabled" priority="6" />
+      <Item value="Font" priority="7" />
+      <Item value="Checked" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.StringComparison">
+      <Item value="OrdinalIgnoreCase" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="First" priority="1" />
+      <Item value="Any" priority="0" />
+      <Item value="ToList" priority="2" />
+      <Item value="ToArray" priority="3" />
+      <Item value="Sum" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="Append" priority="2" />
+      <Item value="Open" priority="1" />
+      <Item value="Create" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileAccess">
+      <Item value="ReadWrite" priority="0" />
+      <Item value="Write" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileShare">
+      <Item value="ReadWrite" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileOptions">
+      <Item value="WriteThrough" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Process">
+      <Item value="GetCurrentProcess" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.Process">
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="WriteLine" priority="8" />
+      <Item value="Close" priority="1" />
+      <Item value="Write" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BCJobClockLib.DataLayer">
+      <Item value="LogClient" priority="0" />
+      <Item value="ConnectionTypeConstants" priority="0" />
+      <Item value="GetExceptionData" priority="0" />
+      <Item value="FormatTimeSpan" priority="0" />
+      <Item value="ListViewStringConstants" priority="4" />
+      <Item value="ListViewToClipboard" priority="1" />
+      <Item value="ListViewToString" priority="0" />
+      <Item value="ProperCase" priority="0" />
+      <Item value="UserRecord" priority="8" />
+      <Item value="BasicUserOrderData" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListViewItem+ListViewSubItemCollection">
+      <Item value="Add" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show" priority="11" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="YesNo" priority="5" />
+      <Item value="RetryCancel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DialogResult">
+      <Item value="Yes" priority="4" />
+      <Item value="OK" priority="2" />
+      <Item value="Cancel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="ToString" priority="2" />
+      <Item value="Value" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ColumnHeader">
+      <Item value="Width" priority="3" />
+      <Item value="Index" priority="1" />
+      <Item value="ImageKey" priority="1" />
+      <Item value="Name" priority="1" />
+      <Item value="TextAlign" priority="0" />
+      <Item value="Text" priority="1" />
+      <Item value="DisplayIndex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Top" priority="1" />
+      <Item value="Height" priority="2" />
+      <Item value="Left" priority="1" />
+      <Item value="Width" priority="2" />
+      <Item value="Image" priority="0" />
+      <Item value="Enabled" priority="1" />
+      <Item value="Location" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabControl">
+      <Item value="Move" priority="0" />
+      <Item value="Location" priority="0" />
+      <Item value="Size" priority="0" />
+      <Item value="ImageList" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStrip">
+      <Item value="Height" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.GroupBox">
+      <Item value="Location" priority="0" />
+      <Item value="Height" priority="0" />
+      <Item value="Width" priority="4" />
+      <Item value="Top" priority="0" />
+      <Item value="Size" priority="0" />
+      <Item value="ClientSize" priority="1" />
+      <Item value="Text" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabPage">
+      <Item value="ClientSize" priority="2" />
+      <Item value="ImageKey" priority="3" />
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Application">
+      <Item value="GetResourceStream" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Resources.StreamResourceInfo">
+      <Item value="Stream" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Media.SoundPlayer">
+      <Item value="Load" priority="0" />
+      <Item value="Play" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="IsDescendantOf" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="Text" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BCJobClock.wndJobClock+OperatingModeConstants">
+      <Item value="OpMode_MessageAlert" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.VisualTreeHelper">
+      <Item value="GetParent" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.Canvas">
+      <Item value="SetZIndex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.ObservableCollection`1">
+      <Item value="Add" priority="0" />
+      <Item value="Contains" priority="0" />
+      <Item value="Any" priority="0" />
+      <Item value="Remove" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.ItemsControl">
+      <Item value="ItemsControlFromItemContainer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemsControl">
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataSet">
+      <Item value="Load" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.LoadOption">
+      <Item value="OverwriteChanges" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClockLib.MessageActivityLogItem">
+      <Item value="MessageID" priority="2" />
+      <Item value="LogID" priority="0" />
+      <Item value="LogTime" priority="0" />
+      <Item value="Message" priority="0" />
+      <Item value="MessageType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JobClockAdmin.GenericListViewSorter">
+      <Item value="OurListView" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.SortOrder">
+      <Item value="None" priority="1" />
+      <Item value="Ascending" priority="3" />
+      <Item value="Descending" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ColumnClickEventArgs">
+      <Item value="Column" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ImageList">
+      <Item value="ImageSize" priority="2" />
+      <Item value="Images" priority="3" />
+      <Item value="ColorDepth" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ImageList+ImageCollection">
+      <Item value="Add" priority="2" />
+      <Item value="AddRange" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IComparable">
+      <Item value="CompareTo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Graphics">
+      <Item value="FromImage" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Graphics">
+      <Item value="Clear" priority="1" />
+      <Item value="FillEllipse" priority="1" />
+      <Item value="FillPath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxIcon">
+      <Item value="Exclamation" priority="0" />
+      <Item value="Question" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="Exit" priority="3" />
+      <Item value="Restart" priority="1" />
+      <Item value="DoEvents" priority="0" />
+      <Item value="Run" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BCJobClockLib.DataLayer+ConnectionTypeConstants">
+      <Item value="Connection_Admin" priority="4" />
+      <Item value="Connection_Client" priority="4" />
+      <Item value="Connection_Monitor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DialogResult">
+      <Item value="Yes" priority="1" />
+      <Item value="Retry" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@JobClockAdmin.KeyboardInfo">
+      <Item value="IsPressed" priority="0" />
+      <Item value="GetKeyState" priority="1" />
+      <Item value="GetAsyncKeyState" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BCJobClockLib.KeyboardInfo">
+      <Item value="IsPressed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Checked" priority="8" />
+      <Item value="Enabled" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClockLib.frmPasswordPrompt">
+      <Item value="Show" priority="0" />
+      <Item value="ShowPrompt" priority="0" />
+      <Item value="Icon" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BCJobClockLib.frmPasswordPrompt">
+      <Item value="DoShowPrompt" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="Filter" priority="1" />
+      <Item value="ShowDialog" priority="1" />
+      <Item value="FileName" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadLine" priority="1" />
+      <Item value="EndOfStream" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Application">
+      <Item value="Visible" priority="0" />
+      <Item value="WorkbookSync" priority="0" />
+      <Item value="Worksheets" priority="0" />
+      <Item value="Save" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Workbooks">
+      <Item value="Add" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Missing">
+      <Item value="Value" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Sheets">
+      <Item value="Add" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel._Workbook">
+      <Item value="Worksheets" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Worksheet">
+      <Item value="Cells" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClockLib.DataLayer+DateRange">
+      <Item value="StartTime" priority="5" />
+      <Item value="EndTime" priority="5" />
+      <Item value="Coalesce" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Max" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BCJobClockLib.DataLayer+DateRange">
+      <Item value="Coalesce" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Font">
+      <Item value="Bold" priority="1" />
+      <Item value="Style" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.FontStyle">
+      <Item value="Bold" priority="1" />
+      <Item value="Regular" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox">
+      <Item value="Items" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BASeCamp.Configuration.LoadedTypeManager">
+      <Item value="ManagedTypes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Activator">
+      <Item value="CreateInstance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClockLib.BaseDataExporter">
+      <Item value="getName" priority="0" />
+      <Item value="Configure" priority="1" />
+      <Item value="hasConfigPage" priority="0" />
+      <Item value="PerformExport" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Visibility">
+      <Item value="Collapsed" priority="1" />
+      <Item value="Visible" priority="3" />
+      <Item value="Hidden" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Boolean">
+      <Item value="Parse" priority="5" />
+      <Item value="TryParse" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Expander">
+      <Item value="Visibility" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SaveFileDialog">
+      <Item value="OverwritePrompt" priority="1" />
+      <Item value="Filter" priority="0" />
+      <Item value="ShowDialog" priority="0" />
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BCJobClockLib.DateRange">
+      <Item value="CoalesceRanges" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClockLib.DateRange">
+      <Item value="Span" priority="7" />
+      <Item value="ToString" priority="0" />
+      <Item value="StartTime" priority="3" />
+      <Item value="EndTime" priority="2" />
+      <Item value="Contains" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClockLib.DataLayer+BasicUserOrderData">
+      <Item value="Username" priority="8" />
+      <Item value="TotalTime" priority="9" />
+      <Item value="OrderID" priority="0" />
+      <Item value="isClocked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start" priority="1" />
+      <Item value="CurrentCulture" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClockLib.frmWaitMessage">
+      <Item value="Show" priority="0" />
+      <Item value="Invoke" priority="0" />
+      <Item value="Close" priority="1" />
+      <Item value="SetException" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep" priority="1" />
+      <Item value="CurrentThread" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ProgressBar">
+      <Item value="Style" priority="0" />
+      <Item value="MarqueeAnimationSpeed" priority="0" />
+      <Item value="Invoke" priority="0" />
+      <Item value="Value" priority="4" />
+      <Item value="Maximum" priority="1" />
+      <Item value="Minimum" priority="2" />
+      <Item value="Update" priority="0" />
+      <Item value="Invalidate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.ProgressBarStyle">
+      <Item value="Marquee" priority="0" />
+      <Item value="Continuous" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AppDomain">
+      <Item value="CurrentDomain" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.AppDomain">
+      <Item value="UnhandledException" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.UnhandledExceptionEventArgs">
+      <Item value="ExceptionObject" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebPermission">
+      <Item value="Demand" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.DnsPermission">
+      <Item value="Demand" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Security.Permissions.PermissionState">
+      <Item value="Unrestricted" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Name" priority="0" />
+      <Item value="GetConstructor" priority="0" />
+      <Item value="InvokeMember" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Navigation.NavigationService">
+      <Item value="GetNavigationService" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel._Worksheet">
+      <Item value="Cells" priority="4" />
+      <Item value="Activate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append" priority="12" />
+      <Item value="ToString" priority="3" />
+      <Item value="Replace" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Delete" priority="0" />
+      <Item value="Exists" priority="0" />
+      <Item value="Copy" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.ListViewItem">
+      <Item value="ListViewSubItem" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Clipboard">
+      <Item value="SetText" priority="5" />
+      <Item value="Clear" priority="0" />
+      <Item value="SetData" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.TextDataFormat">
+      <Item value="CommaSeparatedValue" priority="1" />
+      <Item value="Text" priority="3" />
+      <Item value="Html" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Runtime.InteropServices.LayoutKind">
+      <Item value="Sequential" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Rectangle">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JobClockAdmin.GenericListViewSorter+RECT">
+      <Item value="Top" priority="0" />
+      <Item value="Left" priority="1" />
+      <Item value="Right" priority="0" />
+      <Item value="Bottom" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ContextMenuStrip">
+      <Item value="Items" priority="4" />
+      <Item value="Opening" priority="3" />
+      <Item value="Tag" priority="0" />
+      <Item value="Show" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Rectangle">
+      <Item value="Contains" priority="0" />
+      <Item value="Left" priority="1" />
+      <Item value="ToString" priority="0" />
+      <Item value="Bottom" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Control">
+      <Item value="MousePosition" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Point">
+      <Item value="X" priority="0" />
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Common.DbTransaction">
+      <Item value="Rollback" priority="0" />
+      <Item value="Commit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Timer">
+      <Item value="Tick" priority="2" />
+      <Item value="Interval" priority="3" />
+      <Item value="Start" priority="2" />
+      <Item value="Stop" priority="0" />
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BCJobClockLib.DataLayer+ListViewStringConstants">
+      <Item value="Copy_HTML" priority="0" />
+      <Item value="Copy_CSV" priority="2" />
+      <Item value="Copy_HTMLFRAGMENT" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding">
+      <Item value="GetEncoding" priority="0" />
+      <Item value="UTF8" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.Encoding">
+      <Item value="GetString" priority="0" />
+      <Item value="GetBytes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Runtime.InteropServices.COMException">
+      <Item value="Message" priority="0" />
+      <Item value="Source" priority="0" />
+      <Item value="StackTrace" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileSystemWatcher">
+      <Item value="Changed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Action`1">
+      <Item value="Invoke" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Items" priority="6" />
+      <Item value="Select" priority="0" />
+      <Item value="SelectedIndex" priority="1" />
+      <Item value="SelectedItem" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox+ObjectCollection">
+      <Item value="AddRange" priority="0" />
+      <Item value="Clear" priority="0" />
+      <Item value="Add" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Cursor">
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Cursors">
+      <Item value="WaitCursor" priority="0" />
+      <Item value="Arrow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BCJobClockLib.boolEx">
+      <Item value="xParse" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.MonthCalendar">
+      <Item value="CalendarDimensions" priority="1" />
+      <Item value="SetSelectionRange" priority="0" />
+      <Item value="MinDate" priority="0" />
+      <Item value="SelectionStart" priority="0" />
+      <Item value="SelectionRange" priority="0" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JobClockAdmin.frmDateRangePicker+BasicDateRange">
+      <Item value="StartDate" priority="1" />
+      <Item value="EndDate" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JobClockAdmin.frmDateRangePicker">
+      <Item value="Size" priority="0" />
+      <Item value="ShowDialog" priority="0" />
+      <Item value="CurrentDateRange" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BCJobClockLib.ParseX">
+      <Item value="ParseIntX" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DateRangeEventArgs">
+      <Item value="Start" priority="2" />
+      <Item value="End" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@JobClockAdmin.frmDateRangePicker">
+      <Item value="ChooseRange" priority="0" />
+      <Item value="BasicDateRange" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JobClockAdmin.frmJobClockAdmin+UserReportListEntry">
+      <Item value="_UserPIN" priority="0" />
+      <Item value="UserPIN" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClockLib.ListViewExtensions+DropDownListViewCopyData">
+      <Item value="lvw" priority="0" />
+      <Item value="ActFunction" priority="0" />
+      <Item value="ContentsName" priority="0" />
+      <Item value="GroupName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripDropDown">
+      <Item value="Items" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JobClockAdmin.KeyStateInfo">
+      <Item value="IsPressed" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.NotifyIcon">
+      <Item value="Icon" priority="0" />
+      <Item value="ContextMenuStrip" priority="0" />
+      <Item value="BalloonTipIcon" priority="1" />
+      <Item value="BalloonTipText" priority="1" />
+      <Item value="BalloonTipTitle" priority="0" />
+      <Item value="ShowBalloonTip" priority="1" />
+      <Item value="Visible" priority="1" />
+      <Item value="Text" priority="0" />
+      <Item value="DoubleClick" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JobClockAdmin.JobMonitor">
+      <Item value="Icon" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.ToolTipIcon">
+      <Item value="Info" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FormClosingEventArgs">
+      <Item value="Cancel" priority="0" />
+      <Item value="CloseReason" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.CloseReason">
+      <Item value="TaskManagerClosing" priority="0" />
+      <Item value="WindowsShutDown" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Array">
+      <Item value="Copy" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.FormWindowState">
+      <Item value="Minimized" priority="1" />
+      <Item value="Normal" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ChangeType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.ConstructorInfo">
+      <Item value="Invoke" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.BindingFlags">
+      <Item value="Static" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BASeCamp.Configuration.INItemValueExtensions+INIDataItem">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClockLib.ListViewExtensions+DropDownItemListViewCopyData">
+      <Item value="CopyType" priority="5" />
+      <Item value="lvw" priority="1" />
+      <Item value="actFunction" priority="0" />
+      <Item value="GroupColumnName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DataFormats">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListViewGroup">
+      <Item value="Items" priority="1" />
+      <Item value="Header" priority="3" />
+      <Item value="HeaderAlignment" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListViewGroupCollection">
+      <Item value="Add" priority="4" />
+      <Item value="Contains" priority="0" />
+      <Item value="Clear" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Globalization.CultureInfo">
+      <Item value="TextInfo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.HorizontalAlignment">
+      <Item value="Left" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Drawing2D.GraphicsPath">
+      <Item value="AddEllipse" priority="0" />
+      <Item value="Dispose" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Drawing2D.PathGradientBrush">
+      <Item value="CenterColor" priority="1" />
+      <Item value="SurroundColors" priority="2" />
+      <Item value="CenterPoint" priority="0" />
+      <Item value="Dispose" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2+ValueCollection">
+      <Item value="Contains" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClockLib.DataLayer+UserRecord">
+      <Item value="RecordID" priority="29" />
+      <Item value="PINCode" priority="11" />
+      <Item value="Username" priority="13" />
+      <Item value="Active" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BCJobClockLib.CUserDataWatcher+ChangeInfoConstants">
+      <Item value="CIC_UserAdded" priority="2" />
+      <Item value="CIC_UserRemoved" priority="1" />
+      <Item value="CIC_PINChanged" priority="3" />
+      <Item value="CIC_Clockin" priority="1" />
+      <Item value="CIC_NameChanged" priority="1" />
+      <Item value="CIC_Clockout" priority="0" />
+      <Item value="CIC_ActiveChanged" priority="1" />
+      <Item value="CIC_AllChanged" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClockLib.CUserDataWatcher">
+      <Item value="WatchEvent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClockLib.CUserDataWatcher+ChangeInfoConstants">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BCJobClockLib.CUserDataWatcher">
+      <Item value="ChangeInfoConstants" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.ColorDepth">
+      <Item value="Depth32Bit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BASeCamp.Configuration.INIFile">
+      <Item value="Save" priority="0" />
+      <Item value="FireBeforeRetrieve" priority="0" />
+      <Item value="FireBeforeSet" priority="0" />
+      <Item value="BeforeRetrieveValue" priority="0" />
+      <Item value="BeforeSetValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PreviewKeyDownEventArgs">
+      <Item value="KeyCode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JobClockAdmin.BeforeSelItemChange+BeforeItemChangeFunction">
+      <Item value="Invoke" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JobClockAdmin.BeforeSelItemChange">
+      <Item value="fireChange" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JobClockAdmin.frmJobClockAdmin+ROReportListEntry">
+      <Item value="_Order" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BASeCamp.Configuration.INIFile+BeforeRetrieveValueFunc">
+      <Item value="Invoke" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BASeCamp.Configuration.INISection">
+      <Item value="OwnerINI" priority="3" />
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DayOfWeek">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.SelectionChangedEventArgs">
+      <Item value="AddedItems" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BCJobClock.wndJobClock+ClockedOrderListItem">
+      <Item value="RO" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BASeCamp.Configuration.INIFile+SetValueFunc">
+      <Item value="Invoke" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Timer">
+      <Item value="Dispose" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BCJobClockLib.DataLayer+UserRecord">
+      <Item value="CreateRecord" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F740D78E-4516-4B04-A43B-B3B5A55559D5/f:TextBoxFilter.cs" caret="654" fromTop="18" />
+      <File id="F740D78E-4516-4B04-A43B-B3B5A55559D5/f:devlog.txt" caret="3443" fromTop="34" />
+      <File id="F740D78E-4516-4B04-A43B-B3B5A55559D5/f:Jobclockrequirements.txt" caret="2697" fromTop="31" />
+      <File id="F740D78E-4516-4B04-A43B-B3B5A55559D5/f:App.xaml.cs" caret="345" fromTop="15" />
+      <File id="F740D78E-4516-4B04-A43B-B3B5A55559D5/f:app.config" caret="0" fromTop="0" />
+      <File id="F740D78E-4516-4B04-A43B-B3B5A55559D5/d:Properties/f:AssemblyInfo.cs" caret="601" fromTop="13" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:GenericListViewSorter.cs" caret="10066" fromTop="0" />
+      <File id="49C0738F-B36E-49B4-959D-36C958DF693B/f:frmPasswordPrompt.cs" caret="1166" fromTop="16" />
+      <File id="49C0738F-B36E-49B4-959D-36C958DF693B/f:DateRange.cs" caret="579" fromTop="14" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:frmDateRangePicker.cs" caret="3341" fromTop="18" />
+      <File id="49C0738F-B36E-49B4-959D-36C958DF693B/f:DataManager.cs" caret="0" fromTop="0" />
+      <File id="49C0738F-B36E-49B4-959D-36C958DF693B/f:frmWaitMessage.cs" caret="1800" fromTop="21" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:Program.cs" caret="1510" fromTop="19" />
+      <File id="49C0738F-B36E-49B4-959D-36C958DF693B/f:ExtendDbReader.cs" caret="5129" fromTop="14" />
+      <File id="49C0738F-B36E-49B4-959D-36C958DF693B/f:QueryAdapter.cs" caret="9999" fromTop="19" />
+      <File id="49C0738F-B36E-49B4-959D-36C958DF693B/f:cINIFile.cs" caret="31674" fromTop="18" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:frmJobClockAdmin.Designer.cs" caret="514" fromTop="15" />
+      <File id="49C0738F-B36E-49B4-959D-36C958DF693B/f:MultiTypeManager.cs" caret="24425" fromTop="20" />
+      <File id="F740D78E-4516-4B04-A43B-B3B5A55559D5/f:WndJobClock.xaml" caret="5664" fromTop="0" />
+      <File id="F740D78E-4516-4B04-A43B-B3B5A55559D5/f:WndJobClock.xaml.cs" caret="26998" fromTop="16" />
+      <File id="49C0738F-B36E-49B4-959D-36C958DF693B/f:JobClockConfig.cs" caret="5816" fromTop="22" />
+      <File id="49C0738F-B36E-49B4-959D-36C958DF693B/f:DataLayer.cs" caret="38710" fromTop="14" />
+      <File id="49C0738F-B36E-49B4-959D-36C958DF693B/f:CUserWatcher.cs" caret="5099" fromTop="20" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:JobMonitor.cs" caret="19568" fromTop="25" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:frmJobClockAdmin.cs" caret="0" fromTop="0" />
+      <File id="49C0738F-B36E-49B4-959D-36C958DF693B/f:User.cs" caret="0" fromTop="0" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:LEDImages.cs" caret="624" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:JobMonitor.cs" caret="7187" fromTop="0" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:JobMonitor.cs" caret="7016" fromTop="19" />
+      <File id="49C0738F-B36E-49B4-959D-36C958DF693B/f:CUserWatcher.cs" caret="4189" fromTop="7" />
+      <File id="49C0738F-B36E-49B4-959D-36C958DF693B/f:CUserWatcher.cs" caret="5466" fromTop="25" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:JobMonitor.cs" caret="16722" fromTop="22" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:JobMonitor.cs" caret="16092" fromTop="12" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:JobMonitor.cs" caret="11524" fromTop="27" />
+      <File id="49C0738F-B36E-49B4-959D-36C958DF693B/f:CUserWatcher.cs" caret="5098" fromTop="20" />
+      <File id="49C0738F-B36E-49B4-959D-36C958DF693B/f:CUserWatcher.cs" caret="5139" fromTop="20" />
+      <File id="49C0738F-B36E-49B4-959D-36C958DF693B/f:CUserWatcher.cs" caret="46350" fromTop="20" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:JobMonitor.cs" caret="19211" fromTop="16" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:JobMonitor.cs" caret="19568" fromTop="25" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:JobMonitor.cs" caret="22640" fromTop="25" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:frmJobClockAdmin.cs" caret="34901" fromTop="16" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:frmJobClockAdmin.cs" caret="88218" fromTop="16" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:frmJobClockAdmin.cs" caret="87991" fromTop="16" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:frmJobClockAdmin.cs" caret="88218" fromTop="16" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:frmJobClockAdmin.cs" caret="88183" fromTop="16" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:frmJobClockAdmin.cs" caret="50415" fromTop="19" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:frmJobClockAdmin.cs" caret="88218" fromTop="3" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:LEDImages.cs" caret="2210" fromTop="17" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:LEDImages.cs" caret="364" fromTop="13" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:LEDImages.cs" caret="1824" fromTop="16" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:LEDImages.cs" caret="900" fromTop="14" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:LEDImages.cs" caret="1196" fromTop="22" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:LEDImages.cs" caret="1353" fromTop="26" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:LEDImages.cs" caret="2108" fromTop="27" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:LEDImages.cs" caret="2174" fromTop="28" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:LEDImages.cs" caret="1625" fromTop="27" />
+      <File id="A858B735-1BAB-4367-919E-33BC5C829980/f:LEDImages.cs" caret="624" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

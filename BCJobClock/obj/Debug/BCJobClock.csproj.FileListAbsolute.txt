@@ -1,0 +1,52 @@
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClock\bin\Debug\BCJobClock.exe
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClock\bin\Debug\BCJobClock.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\WndJobClock.baml
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\WndJobClock.g.cs
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\App.g.cs
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock_MarkupCompile.cache
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock.g.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock.Properties.Resources.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock.csproj.GenerateResource.Cache
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock.exe
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClock\bin\Debug\click.wav
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock_Content.g.cs
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\App.baml
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BCJobClock\BCJobClock\bin\Debug\BCJobClock.exe.config
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClock\bin\Debug\BCJobClock.exe.config
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock.exe
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock.pdb
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClock\bin\Debug\BCJobClock.exe
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClock\bin\Debug\BCJobClock.pdb
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClock\bin\Debug\BCJobClockLib.dll
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClock\bin\Debug\BCJobClockLib.pdb
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\WndJobClock.baml
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\App.baml
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\WndJobClock.g.cs
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\App.g.cs
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock_MarkupCompile.cache
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock.g.resources
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock.Properties.Resources.resources
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock.csproj.GenerateResource.Cache
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock_MarkupCompile.lref
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClock\bin\Debug\BCJobClock.exe.config
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClock\bin\Debug\BCJobClock.exe
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClock\bin\Debug\BCJobClock.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClock\bin\Debug\BCJobClockLib.dll
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClock\bin\Debug\BCJobClockLib.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock.csprojResolveAssemblyReference.cache
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClock\obj\Debug\App.baml
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClock\obj\Debug\WndJobClock.g.cs
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClock\obj\Debug\App.g.cs
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClock\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock_MarkupCompile.cache
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock_MarkupCompile.lref
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClock\obj\Debug\WndJobClock.baml
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock.g.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock.Properties.Resources.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock.csproj.GenerateResource.Cache
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock.exe
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\BCJobClock\BCJobClock\obj\Debug\BCJobClock.pdb

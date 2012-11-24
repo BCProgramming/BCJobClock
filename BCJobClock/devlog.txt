@@ -1,0 +1,58 @@
+﻿Development  Log for "BCJobClock" (Working name)
+
+Started December 17th, 2011
+
+The specifications given by the customer are as follows. My notes are in asterisks.
+
+This can be a simple program and maybe you already have a solution you can tailor to suit our needs. Its very basic. 
+The program should consist of four modules or sections, we don't care if they are separate programs or not.
+
+The program will be used for job times and tracking. We want to keep it simple for the users 
+that will be clocking in and out on jobs.
+
+The user clocking module of the program should be touch screen compatible (large buttons) 
+and really only needs to consist of a few message windows and a numerical keypad. 
+The default state of the program when opened will display the numerical keypad with
+a message for the user to enter their pin. (we will assign them pin numbers, 
+4 digits most likely, in the admin section of the program and associate the pin with their name.) 
+Upon entering their pin it will direct them to scan their "WORK ORDER".
+This will be accomplished by input from a typical bar code scanner. 
+The input is numerical text such as "RO0256251" the only part the program will need to record
+is the 0256251 or last 7 digits. When the user scans the work order this will clock in the job
+and the clock will begin running in the background (there is no need to show this in the user input module). 
+The program will then return to its default state so to be ready for another user to clock in or out their job.
+
+......So when the user logs in with their pin and scans the work order once it will begin the clock and 
+when the user scans it the second time it will stop the clock. It will need to handle exceptions when 
+the user clocks in on a work order more than once by adding the two times together. (other users will
+ also be able to clock in or out on the same job.)
+
+The display module of the software we will want to be a client to the user interface or use a 
+network database that is shared by the user module. This module can also contain the admin 
+functions and reporting functions. The display will show users that are clocked in and which 
+numbers they are clocked in on and for how long (a running clock min and hrs only, no seconds required). 
+It only needs to be basic. The admin section needs to be able to add users by name and assign a pin number to use, 
+that is all. The reporting module needs to provide reporting by date first then job number (we call job number: RO#),
+ such as RO#0256251 Completed by Tech(s) Mike 00:26, John 00:12 AND by date first then user such as 
+ Mike completed: RO#0256251 00:26, RO#0256252 00:14 Total time: 00:40 (laid out in a column format of course,
+  or an excel export if that is easier.) It also would be nice to have a text input box for searches by job number also.
+
+
+Dec 17th 2011:
+
+Added the "Admin" applet project. it is a Windows Forms Application. Refactored the database access code to a separate Class Library, too.
+
+
+
+TODO List:
+
+*Complete Order listing tab of Admin applet Include a "Search" feature for filtering the Job Numbers.
+*Add "reporting" tab for reports feature
+*Add Functions to "Repair" the database (in case of corruption), back it up, and wipe it, as well as 
+ reinitialize it (clear all data and recreate all the tables).
+
+*consider changing refresh routines to Change the existing items where possible, rather than nuke the entire listview
+
+
+
+

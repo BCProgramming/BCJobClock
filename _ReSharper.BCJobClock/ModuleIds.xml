@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="49C0738F-B36E-49B4-959D-36C958DF693B" ModuleId="BCJobClockLib" />
+  <Module PersistentId="A858B735-1BAB-4367-919E-33BC5C829980" ModuleId="JobClockAdmin" />
+  <Module PersistentId="F740D78E-4516-4B04-A43B-B3B5A55559D5" ModuleId="BCJobClock" />
+</Modules>
